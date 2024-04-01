@@ -1,39 +1,72 @@
-2024.04.01 19:06:51.216860 | INFO | Main | MainInit | Program başlatılıyor.
-2024.04.01 19:06:51.217866 | INFO | Main | MainStarted | Program başlatıldı.
-2024.04.01 19:06:51.217866 | INFO | Main | SelectedMining | Mining seçildi.
-2024.04.01 19:06:51.218382 | INFO | Miner | CreatedMiner | Yeni Miner oluşturuldu.
-2024.04.01 19:06:51.218382 | INFO | Miner | MinerDidSetID | Miner'e ID:0 verildi.
-2024.04.01 19:06:51.218382 | INFO | Miner | MinerInitializing | Miner(0) | Başlatılıyor.
-2024.04.01 19:06:51.219393 | INFO | Miner | MinerStarted | Miner(0) | Başlatıldı.
-2024.04.01 19:06:52.796456 | INFO | Miner | MinerCheckedTables | Miner(0) | Tabloları kontrol etti.
-2024.04.01 19:06:52.806751 | INFO | Browser | BrowserOpen | Miner(0) | Tarayıcı açılıyor.
-2024.04.01 19:06:53.485150 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com/ 
-2024.04.01 19:06:58.860974 | ERROR | Database | AddingSomeVisitedLink | Miner(0) | Aynı link eklemeye çalışıldı: https://www.trendyol.com/
-2024.04.01 19:06:58.934464 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59298
-2024.04.01 19:06:59.112985 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//arnetti/karyola-tek-kisilik-baslikli-rafli-90x190-yatak-uyumlu-renk-beyaz-smart-p-4237358 
-2024.04.01 19:07:03.904171 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59326
-2024.04.01 19:07:04.082613 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//redline/slim-fit-yumusak-teri-emen-kolay-utu-nefes-alan-erkek-gomlek-p-781076269 
-2024.04.01 19:07:08.786331 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59402
-2024.04.01 19:07:08.967938 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//usmood-ayakkabi-bagcigi-x-b164478-c151037 
-2024.04.01 19:07:13.267123 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59424
-2024.04.01 19:07:13.446577 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//hanzade-qahwe/dag-cilekli-dibek-kahvesi200gr-p-444405028 
-2024.04.01 19:07:18.249109 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59464
-2024.04.01 19:07:18.425851 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//genel-markalar/erkek-giri-fermuarli-kapsonlu-sweatshirt-hirka-p-250187808 
-2024.04.01 19:07:25.653166 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59516
-2024.04.01 19:07:25.825247 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//30-kadin-beslenme-cantasi-x-g1-c104040-a338-v5399 
-2024.04.01 19:07:29.535321 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59545
-2024.04.01 19:07:29.713137 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//high-nutrition/mass-gainer-3600-gr-cikolata-aromali-kilo-almaya-yardimci-hacim-kutle-kas-karbonhidrat-tozu-p-230454242 
-2024.04.01 19:07:34.448226 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59576
-2024.04.01 19:07:34.624028 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//spor-aletleri-x-c104192 
-2024.04.01 19:07:39.031498 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59662
-2024.04.01 19:07:39.221871 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//moonbull/unisex-brooklyn-25-baskili-reglan-kol-oversize-t-shirt-p-794290177 
-2024.04.01 19:07:43.540898 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59719
-2024.04.01 19:07:43.715673 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//lufian/pitaya-erkek-smart-gomlek-comfort-fit-haki-p-686214833 
-2024.04.01 19:07:48.570246 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59749
-2024.04.01 19:07:48.758994 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//shopiolog/sonic-anaokulu-kres-cocuk-valiz-sirt-cantasi-cekcekli-sonic-tekerlekli-p-744631129 
-2024.04.01 19:07:53.021558 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59788
-2024.04.01 19:07:53.196676 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//livonelli/36-adet-750cc-cam-sise-mantar-kapakli-sarap-yag-sisesi-p-444197956 
-2024.04.01 19:07:59.454426 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59828
-2024.04.01 19:07:59.642139 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//m-a-c/dudak-kalemi-lip-pencil-burgundy-1-45-g-773602430093-p-31575236 
-2024.04.01 19:08:04.973272 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 59872
-2024.04.01 19:08:05.149863 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//madame-coco/petit-concept-2li-sosluk-p-37544019 
+2024.04.01 19:18:18.929337 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66158
+2024.04.01 19:18:19.113027 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//mudo/cicek-desenli-uzun-gomlek-elbise-p-675116834 
+2024.04.01 19:18:24.308491 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66194
+2024.04.01 19:18:24.492070 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//tek-kisilik-ranza-y-s12239 
+2024.04.01 19:18:29.287087 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66271
+2024.04.01 19:18:29.467408 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//83-parca-yemek-takimi-y-s34138 
+2024.04.01 19:18:34.462229 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66356
+2024.04.01 19:18:34.644799 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//by-organik/bamya-kurusu-100-gr-cicek-bamya-elenmis-p-112202533 
+2024.04.01 19:18:39.953860 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66411
+2024.04.01 19:18:40.136853 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//elenor/antrasit-utu-gerektirmeyen-keten-duz-tul-perde-geneva-pilesiz-buzdurmeli-ekstrafor-p-148961151 
+2024.04.01 19:18:45.925164 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66477
+2024.04.01 19:18:46.106287 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//cocuk-kargo-pantolon-y-s9458 
+2024.04.01 19:18:50.908645 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66526
+2024.04.01 19:18:51.091571 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//nike/air-max-motif-dh9388-003-spor-ayakkabisi-p-660250532 
+2024.04.01 19:18:56.989878 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66586
+2024.04.01 19:18:57.170160 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//passage-shoes/8010-kadin-hakiki-deri-zincir-detayli-yazlik-bot-p-283599342 
+2024.04.01 19:19:02.343008 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66589
+2024.04.01 19:19:02.530798 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//philips/gc9330-buhar-kazanli-utu-p-39484586 
+2024.04.01 19:19:09.938573 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66635
+2024.04.01 19:19:10.128373 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//madame-coco/voyage-4-lu-ayakli-likor-bardagi-seti-p-705105381 
+2024.04.01 19:19:15.375739 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66682
+2024.04.01 19:19:15.564611 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//yatak-masasi-y-s20019 
+2024.04.01 19:19:20.452981 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66718
+2024.04.01 19:19:20.632255 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//ipekyol-ceket-yelek-x-b46-c104153 
+2024.04.01 19:19:25.660893 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66754
+2024.04.01 19:19:25.840455 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//tuylu-yatak-ortusu-y-s33114 
+2024.04.01 19:19:29.848598 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66786
+2024.04.01 19:19:30.027799 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//transformacion-taki-aksesuar-dolabi-x-b102620-c105463 
+2024.04.01 19:19:34.049496 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66821
+2024.04.01 19:19:34.245445 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//bioderma-tonik-x-b603-c1196 
+2024.04.01 19:19:38.416453 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66856
+2024.04.01 19:19:38.596659 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//masa-ayagi-y-s4598 
+2024.04.01 19:19:43.413788 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66903
+2024.04.01 19:19:43.589533 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//new-balance-erkek-sneaker-x-b128-g2-c1172 
+2024.04.01 19:19:48.287678 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 66943
+2024.04.01 19:19:48.475712 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//sutas/suzme-yogurt-750-g-p-756512320 
+2024.04.01 19:19:53.249972 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67015
+2024.04.01 19:19:53.427407 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//awox-televizyon-x-b102263-c104156 
+2024.04.01 19:19:57.551377 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67084
+2024.04.01 19:19:57.745836 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//zagori/60-parca-natural-catal-kasik-takimi-duz-model-12-kisilik-p-303800734 
+2024.04.01 19:20:03.394085 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67153
+2024.04.01 19:20:03.579189 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//genel-markalar/atli-karinca-projeksiyon-isikli-muzik-kutusu-buyuk-boy-yf-2280-p-307204876 
+2024.04.01 19:20:09.543567 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67215
+2024.04.01 19:20:09.734460 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//truflu-zeytinyagi-y-s36102 
+2024.04.01 19:20:13.775432 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67262
+2024.04.01 19:20:13.961533 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//barber-x-b109797 
+2024.04.01 19:20:17.852573 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67346
+2024.04.01 19:20:18.034461 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//maxgo/3011-7-in-1-usb-type-c-to-usb-a-usb-c-usb-2-0-3-0-cevirici-adaptor-7-port-coklayici-usb-hub-p-804600278 
+2024.04.01 19:20:23.229166 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67427
+2024.04.01 19:20:23.416499 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//avva/erkek-hardal-logolu-kenarlikli-bere-a32y9210-p-788309036 
+2024.04.01 19:20:28.337301 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67468
+2024.04.01 19:20:28.517764 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//puffiber/kece-anne-bebek-bakim-cantasi-yenidogan-alt-acma-degistirme-icin-organizer-tasinabilir-duzenleyici-p-781480718 
+2024.04.01 19:20:33.731081 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67512
+2024.04.01 19:20:33.910087 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//sirin-butik-erkek-buyuk-beden-hirka-x-b145536-g2-c108865 
+2024.04.01 19:20:38.227531 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67519
+2024.04.01 19:20:38.421139 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//armine/cift-tarafli-kolu-tasli-ferace-23y8401-vizon-p-704217945 
+2024.04.01 19:20:43.319921 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67614
+2024.04.01 19:20:43.499281 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//timberland/t-shirt-p-818211249 
+2024.04.01 19:20:48.267117 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67664
+2024.04.01 19:20:48.446510 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//balkon-korkuluk-y-s9567 
+2024.04.01 19:20:52.708729 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67719
+2024.04.01 19:20:52.892113 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//timas-yayinlari-din-mitoloji-x-b101838-c104375 
+2024.04.01 19:20:58.141420 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67794
+2024.04.01 19:20:58.353266 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//redmi-9t-kilif-y-s28952 
+2024.04.01 19:21:03.011946 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67856
+2024.04.01 19:21:03.197645 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//prego-baby-ana-kucagi-x-b103392-c103731 
+2024.04.01 19:21:07.042248 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67886
+2024.04.01 19:21:07.235859 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//tac/kristal-cift-kisilik-1-alana-1-bedava-yorgan-p-51848563 
+2024.04.01 19:21:13.015732 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67926
+2024.04.01 19:21:13.211726 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//ahead-with-english-kitaplari-y-s11577 
+2024.04.01 19:21:17.712427 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67955
+2024.04.01 19:21:17.895224 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//defacto-siyah-erkek-sweatshirt-x-b37-r14-g2-c1179 

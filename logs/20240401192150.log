@@ -1,0 +1,47 @@
+2024.04.01 19:21:50.299468 | INFO | Main | MainInit | Program başlatılıyor.
+2024.04.01 19:21:50.299468 | INFO | Main | MainStarted | Program başlatıldı.
+2024.04.01 19:21:50.300470 | INFO | Main | SelectedMining | Mining seçildi.
+2024.04.01 19:21:50.300470 | INFO | Miner | CreatedMiner | Yeni Miner oluşturuldu.
+2024.04.01 19:21:50.300470 | INFO | Miner | MinerDidSetID | Miner'e ID:0 verildi.
+2024.04.01 19:21:50.301463 | INFO | Miner | MinerInitializing | Miner(0) | Başlatılıyor.
+2024.04.01 19:21:50.301463 | INFO | Miner | MinerStarted | Miner(0) | Başlatıldı.
+2024.04.01 19:21:51.863966 | INFO | Miner | MinerCheckedTables | Miner(0) | Tabloları kontrol etti.
+2024.04.01 19:21:51.866957 | INFO | Browser | BrowserOpen | Miner(0) | Tarayıcı açılıyor.
+2024.04.01 19:21:52.509185 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com/ 
+2024.04.01 19:21:56.253215 | ERROR | Database | AddingSomeVisitedLink | Miner(0) | Aynı link eklemeye çalışıldı: https://www.trendyol.com/
+2024.04.01 19:21:56.327580 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 67980
+2024.04.01 19:21:56.524835 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//avon-x-b39 
+2024.04.01 19:22:01.039008 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68018
+2024.04.01 19:22:01.231703 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//kubbe/anakucagi-cepli-bebek-tasima-sali-bebek-askisi-sling-p-466106172 
+2024.04.01 19:22:05.947927 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68037
+2024.04.01 19:22:06.133440 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//bebekonfor-besik-x-b109996-c104511 
+2024.04.01 19:22:10.199726 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68068
+2024.04.01 19:22:10.386825 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//siveno-bebek-gunes-kremi-x-b108124-c103772 
+2024.04.01 19:22:14.655704 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68133
+2024.04.01 19:22:14.857193 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//teenage-millionaire/erkek-koyu-kahve-basic-duz-baskisiz-oversize-salas-boyfriend-t-shirt-p-812742606 
+2024.04.01 19:22:19.635449 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68172
+2024.04.01 19:22:19.819981 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//magaza/krimofashion-m-731395 
+2024.04.01 19:22:24.959023 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68172
+2024.04.01 19:22:25.151946 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//alonex-home/tarz-full-beyaz-150-cm-tv-unitesi-tv-sehpasi-rafli-tv-unitesi-konsol-p-784760568 
+2024.04.01 19:22:30.747107 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68246
+2024.04.01 19:22:30.934329 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//dremel-3000-y-s3968 
+2024.04.01 19:22:34.792479 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68273
+2024.04.01 19:22:34.978015 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//adidas/advantage-bebek-pembe-sneaker-id5282-p-813846365 
+2024.04.01 19:22:39.927278 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68316
+2024.04.01 19:22:40.115511 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//saddler/vintage-deri-miktanatis-citcit-kapamali-baglamali-kulplu-omuz-canta-p-788837834 
+2024.04.01 19:22:45.245951 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68333
+2024.04.01 19:22:45.444682 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//snow-homs/6-adet-dikdortgen-isiya-dayanikli-borosilikat-trend-mesrubat-bardagi-380-ml-kare-bardak-p-637204628 
+2024.04.01 19:22:50.294137 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68398
+2024.04.01 19:22:50.481259 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//tonny-black/orijinal-time-serisi-3-bolmeli-fermuarli-su-gecirmez-yumusak-bez-kumas-tote-bag-kol-omuz-cantasi-p-204528140 
+2024.04.01 19:22:55.580526 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68414
+2024.04.01 19:22:55.763482 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//perle/ada-cayi-rengi-petek-zemin-grek-tul-perde-ekstrafor-buzgulu-utu-istemez-p-666846029 
+2024.04.01 19:23:01.900829 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68497
+2024.04.01 19:23:02.087507 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//lg/g3-batarya-p-66712016 
+2024.04.01 19:23:09.317294 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68531
+2024.04.01 19:23:09.505124 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//defacto/erkek-sweat-t5139az-gr184-p-809384819 
+2024.04.01 19:23:14.392738 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68553
+2024.04.01 19:23:14.586690 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//kare-plakalik-y-s14549 
+2024.04.01 19:23:19.189458 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68614
+2024.04.01 19:23:19.380505 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//sr/bomber-ceket-y-s5336 
+2024.04.01 19:23:24.045869 | INFO | Database | UrlCounted | Miner(0) | Kalan url sayısı: 68619
+2024.04.01 19:23:24.248911 | INFO | Miner | TrendyolScanningPage | Miner(0) | Trendyol sayfası taranıyor URL: https://www.trendyol.com//bebekonfor/krem-fransiz-dantelli-uyku-seti-ile-dogal-ahsap-sepet-besik-bersava-p-4702283 

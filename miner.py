@@ -234,7 +234,7 @@ class Urls(Miner):
         newUrls = [url for url in urls if url not in allUrls]
 
         self.Database.Connect()
-        addUrlQuey='INSERT INTO urls (url) VALUES (%s)'
+        addUrlQuey='INSERT IGNORE INTO urls (url) VALUES (%s)'
         try:
             self.Database.ExecuteMany(addUrlQuey,[(url,) for url in newUrls])
         except IntegrityError as err:
