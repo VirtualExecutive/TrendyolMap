@@ -1,0 +1,9 @@
+2024.03.29 16:41:14.628581 | INFO | Main | MainInit | Program başlatılıyor.
+2024.03.29 16:41:14.628581 | INFO | Main | MainStarted | Program başlatıldı.
+2024.03.29 16:41:14.630600 | INFO | Main | SelectedMining | Mining seçildi.
+2024.03.29 16:41:14.630600 | INFO | Miner | CreatedMiner | Yeni Miner oluşturuldu.
+2024.03.29 16:41:14.630600 | INFO | Miner | MinerDidSetID | Miner'e ID:0 verildi.
+2024.03.29 16:41:14.631594 | INFO | Miner | MinerInitializing | Miner(0) | Başlatılıyor.
+2024.03.29 16:41:14.632102 | INFO | Miner | MinerStarted | Miner(0) | Başlatıldı.
+2024.03.29 16:41:17.056670 | INFO | Miner | MinerCheckedTables | Miner(0) | Tabloları kontrol etti.
+2024.03.29 16:41:17.067816 | INFO | Browser | BrowserOpen | Miner(0) | Tarayıcı açılıyor.

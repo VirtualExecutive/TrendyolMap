@@ -1,0 +1,1277 @@
+{
+    "product": {
+        "listingId": "7b99879657862fdf38d0b1d05341b04a",
+        "attributes": [],
+        "selectedVasAttributes": [],
+        "alternativeVariants": [],
+        "variants": [
+            {
+                "attributeId": 0,
+                "attributeName": "",
+                "attributeType": "",
+                "attributeValue": "",
+                "stamps": [],
+                "price": {
+                    "profitMargin": 0,
+                    "discountedPrice": {
+                        "text": "199 TL",
+                        "value": 199
+                    },
+                    "sellingPrice": {
+                        "text": "199 TL",
+                        "value": 199
+                    },
+                    "originalPrice": {
+                        "text": "199 TL",
+                        "value": 199
+                    },
+                    "currency": "TRY"
+                },
+                "fulfilmentType": "mp",
+                "attributeBeautifiedValue": "",
+                "isWinner": true,
+                "listingId": "7b99879657862fdf38d0b1d05341b04a",
+                "stock": 10,
+                "sellable": true,
+                "availableForClaim": true,
+                "barcode": "OCN523313",
+                "itemNumber": 525857174,
+                "discountedPriceInfo": "",
+                "hasCollectable": false,
+                "unitInfo": {
+                    "unitPrice": false,
+                    "unitPriceText": false
+                },
+                "rushDeliveryMerchantListingExist": false,
+                "lowerPriceMerchantListingExist": false,
+                "groupTagIds": []
+            }
+        ],
+        "otherMerchants": [
+            {
+                "listingId": "530f8439f19957fb97dfa7c0139debca",
+                "url": "/ocean/freze-ucu-zimpara-baslik-ozel-kutulu-protez-jel-tirnak-kuru-manikur-kullanim-uygun-100-lu-p-330282929?boutiqueId=61&merchantId=135383",
+                "reviewsUrl": "/ocean/freze-ucu-zimpara-baslik-ozel-kutulu-protez-jel-tirnak-kuru-manikur-kullanim-uygun-100-lu-p-330282929/yorumlar",
+                "questionsUrl": "/ocean/freze-ucu-zimpara-baslik-ozel-kutulu-protez-jel-tirnak-kuru-manikur-kullanim-uygun-100-lu-p-330282929/saticiya-sor?merchantId=135383",
+                "promotions": [],
+                "discountedPriceInfo": "",
+                "isSellable": true,
+                "isBasketDiscount": false,
+                "hasStock": true,
+                "price": {
+                    "profitMargin": 0,
+                    "discountedPrice": {
+                        "text": "229 TL",
+                        "value": 229
+                    },
+                    "sellingPrice": {
+                        "text": "229 TL",
+                        "value": 229
+                    },
+                    "originalPrice": {
+                        "text": "229 TL",
+                        "value": 229
+                    },
+                    "currency": "TRY"
+                },
+                "isFreeCargo": true,
+                "merchant": {
+                    "isSearchableMerchant": true,
+                    "stickers": [
+                        1262
+                    ],
+                    "merchantBadges": [],
+                    "merchantMarkers": [],
+                    "id": 135383,
+                    "name": "OCEAN",
+                    "officialName": "EBAY GLOBAL NETWORK KOZMET\u0130K PAZARLAMA SANAY\u0130 VE T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130",
+                    "cityName": "\u0130stanbul",
+                    "centralRegistrationSystemNumber": "0323132541500001",
+                    "registeredEmailAddress": "ebayglobal@hs01.kep.tr",
+                    "taxNumber": "3231325415",
+                    "sellerScore": 9.6,
+                    "sellerScoreColor": "049B24",
+                    "deliveryProviderName": "OCEAN",
+                    "corporateInvoiceApplicable": true,
+                    "locationBasedSales": false,
+                    "bulkSalesLimit": 300
+                },
+                "isBlacklist": false
+            }
+        ],
+        "campaign": {
+            "id": 61,
+            "name": "T\u00fcm \u00dcr\u00fcnler",
+            "startDate": "2010-01-01T17:04:05",
+            "endDate": "2061-01-01T18:04:05",
+            "isMultipleSupplied": false,
+            "stockTypeId": 7,
+            "url": "/tum-urunler/butikdetay/61",
+            "showTimer": false
+        },
+        "category": {
+            "id": 101394,
+            "name": "Manik\u00fcr & Pedik\u00fcr Aletleri",
+            "hierarchy": "Kozmetik & Ki\u015fisel Bak\u0131m/Cilt Bak\u0131m/El ve Ayak Bak\u0131m\u0131/Manik\u00fcr ve Pedik\u00fcr Seti",
+            "refundable": true,
+            "beautifiedName": "manikur-pedikur-aletleri",
+            "isVASEnabled": false
+        },
+        "brand": {
+            "isVirtual": true,
+            "beautifiedName": "ocean",
+            "id": 107871,
+            "name": "Ocean",
+            "path": "/ocean-x-b107871"
+        },
+        "color": null,
+        "metaBrand": {
+            "id": 20709,
+            "name": "Ocean",
+            "beautifiedName": "",
+            "isVirtual": false,
+            "path": ""
+        },
+        "showVariants": false,
+        "showSexualContent": true,
+        "brandCategoryBanners": [],
+        "allVariants": [
+            {
+                "itemNumber": 525857174,
+                "value": "",
+                "inStock": true,
+                "currency": "TRY",
+                "barcode": "OCN523313",
+                "price": 199
+            }
+        ],
+        "otherMerchantVariants": [],
+        "socialProof": {},
+        "token": "",
+        "isThereAnyCorporateInvoiceInOtherMerchants": true,
+        "categoryTopRankings": null,
+        "isVasEnabled": false,
+        "originalCategory": {
+            "id": 4811,
+            "name": "Manik\u00fcr ve Pedik\u00fcr Seti",
+            "hierarchy": "Kozmetik & Ki\u015fisel Bak\u0131m/Cilt Bak\u0131m/El ve Ayak Bak\u0131m\u0131/Manik\u00fcr ve Pedik\u00fcr Seti",
+            "refundable": true,
+            "beautifiedName": "manikur-ve-pedikur-seti",
+            "isVASEnabled": false
+        },
+        "landings": [],
+        "id": 330282929,
+        "productCode": "TYC00513096321",
+        "name": "Freze Ucu Z\u0131mpara Ba\u015fl\u0131k, \u00d6zel Kutulu, Protez Jel T\u0131rnak, Kuru Manik\u00fcr Kullan\u0131m Uygun 100'l\u00fc",
+        "nameWithProductCode": "Freze Ucu Z\u0131mpara Ba\u015fl\u0131k, \u00d6zel Kutulu, Protez Jel T\u0131rnak, Kuru Manik\u00fcr Kullan\u0131m Uygun 100'l\u00fc TYC00513096321",
+        "contentDescriptions": [
+            {
+                "description": "\u0130ncelemi\u015f oldu\u011funuz \u00fcr\u00fcn\u00fcn sat\u0131\u015f fiyat\u0131n\u0131 sat\u0131c\u0131 belirlemektedir.",
+                "bold": true
+            },
+            {
+                "description": "Ocean Freze Ucu, Z\u0131mpara Ba\u015fl\u0131k, Profesyonel, Protez Jel T\u0131rnak, Kuru Manik\u00fcr Kullan\u0131ma Uygun",
+                "bold": false
+            },
+            {
+                "description": "Bu \u00fcr\u00fcnden en fazla 25 adet sipari\u015f verilebilir. 25 adetin \u00fczerindeki sipari\u015fleri Trendyol iptal etme hakk\u0131n\u0131 sakl\u0131 tutar.",
+                "bold": false
+            },
+            {
+                "description": "Kampanya fiyat\u0131ndan sat\u0131lmak \u00fczere 5 adetten fazla stok sunulmu\u015ftur.",
+                "bold": false
+            },
+            {
+                "description": "Bu \u00fcr\u00fcn indirim kampanyas\u0131na dahil de\u011fildir.",
+                "bold": false
+            },
+            {
+                "description": "Bir \u00fcr\u00fcn, birden fazla sat\u0131c\u0131 taraf\u0131ndan sat\u0131labilir. Birden fazla sat\u0131c\u0131 taraf\u0131ndan sat\u0131\u015fa sunulan \u00fcr\u00fcnlerin sat\u0131c\u0131lar\u0131 \u00fcr\u00fcn i\u00e7in belirledikleri fiyata, sat\u0131c\u0131 puanlar\u0131na, teslimat stat\u00fclerine, \u00fcr\u00fcnlerdeki promosyonlara, kargonun bedava olup olmamas\u0131na ve \u00fcr\u00fcnlerin h\u0131zl\u0131 teslimat ile teslim edilip edilememesine, \u00fcr\u00fcnlerin stok ve kategorileri bilgilerine g\u00f6re s\u0131ralanmaktad\u0131r.",
+                "bold": false
+            }
+        ],
+        "faqs": [],
+        "descriptions": [
+            {
+                "text": "Bu \u00fcr\u00fcn\u00a0[page=\"merchant_info\"]Voil\u00e0[/page]\u00a0taraf\u0131ndan g\u00f6nderilecektir.",
+                "priority": 2
+            },
+            {
+                "text": "Kampanya fiyat\u0131ndan sat\u0131lmak \u00fczere 5 adetten fazla stok sunulmu\u015ftur.",
+                "priority": 4
+            },
+            {
+                "text": "\u0130ncelemi\u015f oldu\u011funuz \u00fcr\u00fcn\u00fcn sat\u0131\u015f fiyat\u0131n\u0131 sat\u0131c\u0131 belirlemektedir.",
+                "priority": 7
+            },
+            {
+                "text": "Bir \u00fcr\u00fcn, birden fazla sat\u0131c\u0131 taraf\u0131ndan sat\u0131labilir. Birden fazla sat\u0131c\u0131 taraf\u0131ndan sat\u0131\u015fa sunulan \u00fcr\u00fcnlerin sat\u0131c\u0131lar\u0131 \u00fcr\u00fcn i\u00e7in belirledikleri fiyata, sat\u0131c\u0131 puanlar\u0131na, teslimat stat\u00fclerine, \u00fcr\u00fcnlerdeki promosyonlara, kargonun bedava olup olmamas\u0131na ve \u00fcr\u00fcnlerin h\u0131zl\u0131 teslimat ile teslim edilip edilememesine, \u00fcr\u00fcnlerin stok ve kategorileri bilgilerine g\u00f6re s\u0131ralanmaktad\u0131r.",
+                "priority": 1001
+            },
+            {
+                "text": "Bu \u00fcr\u00fcnden en fazla\u00a025 adet sipari\u015f verilebilir.\u00a025 adedin \u00fczerindeki sipari\u015fleri Trendyol iptal etme hakk\u0131n\u0131 sakl\u0131 tutar.\u00a0Belirlenen bu limit kurumsal sipari\u015flerde ge\u00e7erli olmay\u0131p, kurumsal sipari\u015fler i\u00e7in farkl\u0131 limitler belirlenebilmektedir.",
+                "priority": 1003
+            },
+            {
+                "text": "15 g\u00fcn i\u00e7inde \u00fccretsiz iade. Detayl\u0131 bilgi i\u00e7in\u00a0[page=\"return_conditions\"]t\u0131klay\u0131n[/page].",
+                "priority": 1005
+            },
+            {
+                "text": "Ocean Freze Ucu, Z\u0131mpara Ba\u015fl\u0131k, Profesyonel, Protez Jel T\u0131rnak, Kuru Manik\u00fcr Kullan\u0131ma Uygun",
+                "priority": 0
+            }
+        ],
+        "productGroupId": 270290039,
+        "tax": 20,
+        "businessUnit": "Cilt Bak\u0131m",
+        "businessUnitId": 100172,
+        "maxInstallment": 1,
+        "gender": {},
+        "url": "/ocean/freze-ucu-zimpara-baslik-ozel-kutulu-protez-jel-tirnak-kuru-manikur-kullanim-uygun-100-lu-p-330282929?boutiqueId=61&merchantId=844675",
+        "images": [
+            "/ty487/product/media/images/20220722/15/147511807/525857174/1/1_org_zoom.jpg"
+        ],
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+            "profitMargin": 0,
+            "discountedPrice": {
+                "text": "199 TL",
+                "value": 199
+            },
+            "sellingPrice": {
+                "text": "199 TL",
+                "value": 199
+            },
+            "originalPrice": {
+                "text": "199 TL",
+                "value": 199
+            },
+            "currency": "TRY"
+        },
+        "isFreeCargo": false,
+        "promotions": [
+            {
+                "promotionRemainingTime": "",
+                "isOnlyAz": false,
+                "isLimitSatisfied": false,
+                "type": 2,
+                "text": "200 TL ve \u00dczeri Kargo Bedava (Sat\u0131c\u0131 Kar\u015f\u0131lar)",
+                "id": 11733587,
+                "promotionDiscountType": "Cargo",
+                "link": "/sr?prm=11733587"
+            }
+        ],
+        "merchant": {
+            "isSearchableMerchant": true,
+            "stickers": [
+                1262
+            ],
+            "merchantBadges": [
+                {
+                    "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+                    "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+                    "type": "BADGE"
+                }
+            ],
+            "merchantMarkers": [],
+            "id": 844675,
+            "name": "Voil\u00e0",
+            "officialName": "VOLKAN \u00dcZ\u00dcM",
+            "cityName": "Mu\u011fla",
+            "registeredEmailAddress": "volsen@hs01.kep.tr",
+            "taxNumber": "9960476524",
+            "sellerScore": 9.3,
+            "sellerScoreColor": "049B24",
+            "deliveryProviderName": "Voil\u00e0",
+            "corporateInvoiceApplicable": true,
+            "locationBasedSales": false,
+            "sellerLink": "/magaza/voil-m-844675"
+        },
+        "merchantListings": [
+            {
+                "beta": false,
+                "deliveryStartDate": "2024-03-30T14:26:46",
+                "deliveryEndDate": "2024-04-03T14:26:46",
+                "merchant": {
+                    "id": 844675,
+                    "name": "Voil\u00e0",
+                    "officialName": "VOLKAN \u00dcZ\u00dcM",
+                    "cityName": "Mu\u011fla",
+                    "registeredEmailAddress": "volsen@hs01.kep.tr",
+                    "taxNumber": "9960476524",
+                    "sellerScore": 9.3,
+                    "sellerScoreColor": "049B24",
+                    "districtName": "Fethiye",
+                    "countryName": "T\u00dcRK\u0130YE",
+                    "address": "Mahalle/Semt:TUZLA MAH. Cadde/Sokak:ADNAN MENDERES (BBT) BLV. No:18 B",
+                    "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/844675/dc909067-8b4e-4639-9540-91f930c98cb7.jpeg",
+                    "stickers": [
+                        {
+                            "id": 1262
+                        }
+                    ],
+                    "merchantBadges": [
+                        {
+                            "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+                            "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+                            "type": "BADGE"
+                        }
+                    ],
+                    "corporateInvoiceApplicable": true,
+                    "affiliate": "TRENDYOLTR",
+                    "merchantMarkers": [],
+                    "componentCodes": [],
+                    "locationBasedSales": false,
+                    "mpAgreedDTD": true,
+                    "mpEstimatedPackageDTD": true,
+                    "allMpEstimatedPackageDTD": true,
+                    "dropShipmentSupplier": false,
+                    "texApplicable": false
+                },
+                "campaign": {
+                    "id": 61,
+                    "name": "T\u00fcm \u00dcr\u00fcnler",
+                    "stockTypeId": 7,
+                    "startDate": "2010-01-01T17:04:05",
+                    "endDate": "2061-01-01T18:04:05",
+                    "tags": [],
+                    "isMultipleSupplied": false
+                },
+                "promotions": [
+                    {
+                        "id": 11733587,
+                        "name": "200 TL ve \u00dczeri Kargo Bedava (Sat\u0131c\u0131 Kar\u015f\u0131lar)",
+                        "discountType": 7,
+                        "promotionDiscountType": "Cargo",
+                        "promotionEndDate": "2050-01-01T00:00:00",
+                        "promotionRemainingDays": 9408,
+                        "promotionRemainingHours": 9,
+                        "promotionRemainingMinutes": 33,
+                        "isLimitSatisfied": false,
+                        "shortName": "Kargo Bedava",
+                        "mocPerUser": 0,
+                        "isOnlyAz": false
+                    }
+                ],
+                "crossPromotions": [],
+                "variants": [
+                    {
+                        "listingId": "7b99879657862fdf38d0b1d05341b04a",
+                        "fulfilmentType": "mp",
+                        "itemNumber": 525857174,
+                        "barcode": "OCN523313",
+                        "tyBarcode": "OCN523313",
+                        "quantity": 10,
+                        "price": {
+                            "buyingPrice": 0,
+                            "sellingPrice": 199,
+                            "originalPrice": 199,
+                            "manipulatedOriginalPrice": 199,
+                            "discountedPrice": 199,
+                            "currency": "TRY",
+                            "profitMargin": 0
+                        },
+                        "freeCargo": false,
+                        "availableForClaim": true,
+                        "discountedPriceInfo": "",
+                        "hasCollectable": false,
+                        "deci": 0,
+                        "rushDeliveryDuration": 24,
+                        "variantAttributes": [],
+                        "scores": [
+                            {
+                                "key": "1",
+                                "value": 999991.67932316,
+                                "campaignId": 61
+                            },
+                            {
+                                "key": "2",
+                                "value": 999991.67932316,
+                                "campaignId": 61
+                            }
+                        ],
+                        "maxProductSaleQuantity": 25,
+                        "unitInfo": {},
+                        "supplementaryServices": [],
+                        "groupTagIds": [],
+                        "rushDeliveryMerchantListingExist": false,
+                        "rushDeliveryMerchantListing": {
+                            "exist": false
+                        },
+                        "lowerPriceMerchantListingExist": false,
+                        "hasGroupDeal": false,
+                        "fastDeliveryOptions": [
+                            {
+                                "type": "TOMORROW_SHIPPING",
+                                "dailyCutoffHour": "00:00"
+                            }
+                        ],
+                        "overPriced": false,
+                        "sellable": true,
+                        "scheduledDelivery": false,
+                        "isFlash": false,
+                        "isWinner": true,
+                        "isDiscountedListing": false
+                    }
+                ],
+                "stamps": [],
+                "alternativeVariants": [],
+                "maxProductSaleQuantity": 25,
+                "cargoStartDate": "2024-03-30T14:26:46",
+                "cargoRemainingDays": 1,
+                "allVariants": [
+                    {
+                        "itemNumber": 525857174,
+                        "value": "",
+                        "inStock": true
+                    }
+                ],
+                "otherMerchantVariants": [],
+                "hasCheapestVariant": true,
+                "agreedDeliveryDays": 1,
+                "buyMorePayLessPromotions": [],
+                "customValues": [
+                    {
+                        "key": "dimensionalWeight",
+                        "value": "0.0"
+                    },
+                    {
+                        "key": "stockCode",
+                        "value": "OCEANZIMPARA"
+                    },
+                    {
+                        "key": "vatRate",
+                        "value": "20"
+                    },
+                    {
+                        "key": "backUpDeliveryCountries",
+                        "value": "AZ"
+                    },
+                    {
+                        "key": "deliveryCountries",
+                        "value": "AZ"
+                    },
+                    {
+                        "key": "hsCode",
+                        "value": "821420000000"
+                    },
+                    {
+                        "key": "microExport",
+                        "value": "true"
+                    },
+                    {
+                        "key": "origin",
+                        "value": "TR"
+                    }
+                ],
+                "searchableTags": [],
+                "freeCargo": false,
+                "isWinner": true
+            },
+            {
+                "beta": false,
+                "deliveryStartDate": "2024-03-30T14:26:46",
+                "deliveryEndDate": "2024-04-03T14:26:46",
+                "merchant": {
+                    "id": 135383,
+                    "name": "OCEAN",
+                    "officialName": "EBAY GLOBAL NETWORK KOZMET\u0130K PAZARLAMA SANAY\u0130 VE T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130",
+                    "cityName": "\u0130stanbul",
+                    "centralRegistrationSystemNumber": "0323132541500001",
+                    "registeredEmailAddress": "ebayglobal@hs01.kep.tr",
+                    "taxNumber": "3231325415",
+                    "sellerScore": 9.6,
+                    "sellerScoreColor": "049B24",
+                    "districtName": "\u00dcmraniye",
+                    "countryName": "T\u00fcrkiye",
+                    "address": "Mithatpa\u015fa caddesi no:153/A - EBAY KOZMET\u0130K- \nATAKENT SHELL KAR\u015eISI ",
+                    "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/135383/9259b98a-b980-4d5e-8864-b1a99aab57d3.jpg",
+                    "stickers": [
+                        {
+                            "id": 1262
+                        }
+                    ],
+                    "merchantBadges": [],
+                    "corporateInvoiceApplicable": true,
+                    "affiliate": "TRENDYOLTR",
+                    "merchantMarkers": [],
+                    "componentCodes": [],
+                    "locationBasedSales": false,
+                    "mpAgreedDTD": true,
+                    "mpEstimatedPackageDTD": true,
+                    "allMpEstimatedPackageDTD": true,
+                    "bulkSalesLimit": 300,
+                    "dropShipmentSupplier": false,
+                    "texApplicable": false
+                },
+                "campaign": {
+                    "id": 61,
+                    "name": "T\u00fcm \u00dcr\u00fcnler",
+                    "stockTypeId": 7,
+                    "startDate": "2010-01-01T17:04:05",
+                    "endDate": "2061-01-01T18:04:05",
+                    "tags": [],
+                    "isMultipleSupplied": false
+                },
+                "promotions": [
+                    {
+                        "id": 11102853,
+                        "name": "200 TL ve \u00dczeri Kargo Bedava (Sat\u0131c\u0131 Kar\u015f\u0131lar)",
+                        "discountType": 7,
+                        "promotionDiscountType": "Cargo",
+                        "promotionEndDate": "2050-01-01T00:00:00",
+                        "promotionRemainingDays": 9408,
+                        "promotionRemainingHours": 9,
+                        "promotionRemainingMinutes": 33,
+                        "isLimitSatisfied": false,
+                        "shortName": "Kargo Bedava",
+                        "mocPerUser": 0,
+                        "isOnlyAz": false
+                    }
+                ],
+                "crossPromotions": [],
+                "variants": [
+                    {
+                        "listingId": "530f8439f19957fb97dfa7c0139debca",
+                        "fulfilmentType": "mp",
+                        "itemNumber": 525857174,
+                        "barcode": "OCN523313",
+                        "tyBarcode": "OCN523313",
+                        "quantity": 1961,
+                        "price": {
+                            "buyingPrice": 0,
+                            "sellingPrice": 229,
+                            "originalPrice": 229,
+                            "manipulatedOriginalPrice": 229,
+                            "discountedPrice": 229,
+                            "currency": "TRY",
+                            "profitMargin": 0
+                        },
+                        "freeCargo": true,
+                        "availableForClaim": true,
+                        "discountedPriceInfo": "",
+                        "hasCollectable": false,
+                        "deci": 0,
+                        "rushDeliveryDuration": 24,
+                        "variantAttributes": [],
+                        "scores": [
+                            {
+                                "key": "1",
+                                "value": 999989.7640472845,
+                                "campaignId": 61
+                            },
+                            {
+                                "key": "2",
+                                "value": 999989.7640472845,
+                                "campaignId": 61
+                            }
+                        ],
+                        "maxProductSaleQuantity": 25,
+                        "unitInfo": {},
+                        "supplementaryServices": [],
+                        "groupTagIds": [],
+                        "rushDeliveryMerchantListingExist": false,
+                        "lowerPriceMerchantListingExist": false,
+                        "hasGroupDeal": false,
+                        "fastDeliveryOptions": [
+                            {
+                                "type": "TOMORROW_SHIPPING",
+                                "dailyCutoffHour": "00:00"
+                            }
+                        ],
+                        "overPriced": false,
+                        "sellable": true,
+                        "scheduledDelivery": false,
+                        "isFlash": false,
+                        "isWinner": true,
+                        "isDiscountedListing": false
+                    }
+                ],
+                "stamps": [],
+                "alternativeVariants": [],
+                "maxProductSaleQuantity": 25,
+                "cargoStartDate": "2024-03-30T14:26:46",
+                "cargoRemainingDays": 1,
+                "hasCheapestVariant": false,
+                "agreedDeliveryDays": 1,
+                "buyMorePayLessPromotions": [],
+                "customValues": [
+                    {
+                        "key": "dimensionalWeight",
+                        "value": "0.0"
+                    },
+                    {
+                        "key": "stockCode",
+                        "value": "pembez\u0131mparau\u00e7"
+                    },
+                    {
+                        "key": "vatRate",
+                        "value": "20"
+                    },
+                    {
+                        "key": "hsCode",
+                        "value": "821420000000"
+                    },
+                    {
+                        "key": "origin",
+                        "value": "TR"
+                    },
+                    {
+                        "key": "deliveryCountries",
+                        "value": "AZ"
+                    }
+                ],
+                "searchableTags": [],
+                "freeCargo": false,
+                "isWinner": false
+            }
+        ],
+        "isMarketplace": true,
+        "productStamps": [],
+        "hasHtmlContent": false,
+        "favoriteCount": 291,
+        "uxLayout": "cosmetics",
+        "isDigitalGood": false,
+        "isRunningOut": false,
+        "scheduledDelivery": false,
+        "ratingScore": {
+            "averageRating": 4.22,
+            "totalRatingCount": 9,
+            "totalCommentCount": 5
+        },
+        "showStarredAttributes": false,
+        "reviewsUrl": "/ocean/freze-ucu-zimpara-baslik-ozel-kutulu-protez-jel-tirnak-kuru-manikur-kullanim-uygun-100-lu-p-330282929/yorumlar",
+        "questionsUrl": "/ocean/freze-ucu-zimpara-baslik-ozel-kutulu-protez-jel-tirnak-kuru-manikur-kullanim-uygun-100-lu-p-330282929/saticiya-sor?merchantId=844675",
+        "sellerQuestionEnabled": true,
+        "sizeChartUrl": "",
+        "sizeExpectationAvailable": false,
+        "crossPromotionAward": {
+            "awardType": null,
+            "awardValue": null,
+            "contentId": 0,
+            "merchantId": 0
+        },
+        "rushDeliveryMerchantListingExist": false,
+        "lowerPriceMerchantListingExist": false,
+        "showValidFlashSales": false,
+        "showExpiredFlashSales": false,
+        "walletRebate": {
+            "minPrice": 300,
+            "maxPrice": 10000,
+            "rebateRatio": 0.01
+        },
+        "isArtWork": false,
+        "buyMorePayLessPromotions": [],
+        "filterableLabels": [],
+        "customValues": [
+            {
+                "key": "dimensionalWeight",
+                "value": "0.0"
+            },
+            {
+                "key": "stockCode",
+                "value": "OCEANZIMPARA"
+            },
+            {
+                "key": "vatRate",
+                "value": "20"
+            },
+            {
+                "key": "backUpDeliveryCountries",
+                "value": "AZ"
+            },
+            {
+                "key": "deliveryCountries",
+                "value": "AZ"
+            },
+            {
+                "key": "hsCode",
+                "value": "821420000000"
+            },
+            {
+                "key": "microExport",
+                "value": "true"
+            },
+            {
+                "key": "origin",
+                "value": "TR"
+            }
+        ]
+    },
+    "htmlContent": null,
+    "recoAbDecider": "",
+    "user": {
+        "loggedIn": false,
+        "isBuyer": false,
+        "isElite": false
+    },
+    "configuration": {
+        "htmlContentCssUrl": "https://cdn.dsmcdn.com/mweb/production/main.be4f3b6e62dd77fccc78.css",
+        "htmlContentJsUrl": "https://cdn.dsmcdn.com/mweb/production/main.557ead4436e1bc2fada3.js",
+        "storefrontId": 1,
+        "channelId": "1",
+        "showPaymentMethodsAndShippings": false,
+        "showDiscountInformation": false,
+        "isDynamicRender": false,
+        "widgets": [
+            {
+                "name": "millaCampaignBanner",
+                "order": 1
+            },
+            {
+                "name": "corporateInvoice",
+                "order": 2
+            },
+            {
+                "name": "pudoBanner",
+                "order": 3
+            },
+            {
+                "name": "campaigns",
+                "order": 4
+            },
+            {
+                "name": "seller",
+                "order": 5
+            },
+            {
+                "name": "otherSellers",
+                "order": 6
+            },
+            {
+                "name": "featuredComment",
+                "order": 7
+            },
+            {
+                "name": "cta",
+                "order": 8
+            },
+            {
+                "name": "otherCategories",
+                "order": 9
+            },
+            {
+                "name": "discover",
+                "order": 10
+            }
+        ],
+        "maxWidgetCount": 3,
+        "callToActions": [
+            {
+                "name": "CTA_PRODUCT_REVIEWS",
+                "selector": ".pr-rnr-w"
+            },
+            {
+                "name": "CTA_PRODUCT_DESC",
+                "selector": ".product-desc"
+            },
+            {
+                "name": "CTA_SIMILAR_PRODUCTS",
+                "selector": ".productDetail-Similar"
+            },
+            {
+                "name": "CTA_CROSS_PRODUCTS",
+                "selector": ".productDetail-Cross"
+            }
+        ],
+        "discovers": [
+            {
+                "name": "Sen de Al!",
+                "link": "/sr/?fl=encoksatanurunler",
+                "image": "https://cdn.dsmcdn.com/ty126/web-pdp/cok_satanlar.png"
+            },
+            {
+                "name": "En \u00c7ok Sepete Eklenenler",
+                "link": "/sr?fl=encoksepeteeklenenurunler",
+                "image": "https://cdn.dsmcdn.com/ty127/web-pdp/en_cok_sepete_eklenenler.png"
+            },
+            {
+                "name": "En Be\u011fenilenler",
+                "link": "/sr?fl=encokfavorilenenurunler",
+                "image": "https://cdn.dsmcdn.com/ty127/web-pdp/en_begenilenler.png"
+            }
+        ],
+        "discoverWidgetTitle": "Trendyol'da Ke\u015ffet!",
+        "stickNavigationItemsOrder": [
+            "SIMILAR_PRODUCTS",
+            "CROSS_PRODUCTS",
+            "OTHER_MERCHANTS",
+            "PRODUCT_REVIEWS",
+            "PRODUCT_DETAILS"
+        ],
+        "stickNavigationItems": {
+            "PRODUCT_DETAILS": {
+                "translateKey": "PRODUCT_DETAILS",
+                "selector": ".details-section[data-drroot=\"product-info\"] > .title"
+            },
+            "PRODUCT_REVIEWS": {
+                "translateKey": "PRODUCT_REVIEWS",
+                "selector": "article[data-drroot=\"product-reviews\"]"
+            },
+            "SIMILAR_PRODUCTS": {
+                "translateKey": "CTA_SIMILAR_PRODUCTS",
+                "selector": "aside[data-drroot=\"similar-products\"]"
+            },
+            "OTHER_MERCHANTS": {
+                "translateKey": "OTHER_MERCHANTS",
+                "selector": "#other-merchants-dr"
+            },
+            "CROSS_PRODUCTS": {
+                "translateKey": "CROSS_PRODUCTS_TITLE",
+                "selector": "aside[data-drroot=\"cross-recommendations\"] > .title"
+            },
+            "REPORT_CONTENT": {
+                "translateKey": "PRODUCT_DETAIL_REPORT_ABUSE_TEXT",
+                "selector": ".report-container .report-content"
+            },
+            "PRODUCT_DESCRIPTION": {
+                "translateKey": "PRODUCT_DESCRIPTION",
+                "selector": "#urun-aciklamasi > .title"
+            },
+            "SLP": {
+                "translateKey": "YOU_MAY_ALSO_INTERESTED",
+                "selector": "div[data-drroot=\"slp-reco\"] > h3"
+            },
+            "COLLECTION_RECOMMENDATION": {
+                "translateKey": "COLLECTION_RECOMMENDATION_TITLE",
+                "selector": "#collection-recommendation > .collection-recommendation-container > .title"
+            },
+            "RELATED_CATEGORIES": {
+                "translateKey": "RELATED_CATEGORIES",
+                "selector": "aside[data-drroot=\"related-categories\"]"
+            }
+        },
+        "isIgnoredVasBoutiqueForEmergency": false,
+        "isIgnoredDigitalGoodsDeliveryTextContentForEmergency": false,
+        "digitalGoodsDeliveryText": "1 saat i\u00e7inde E-mail olarak g\u00f6nderilecektir.",
+        "isInternational": false,
+        "culture": "tr-TR",
+        "cdnUrl": "https://cdn.dsmcdn.com",
+        "claimInfoText": "15 g\u00fcn i\u00e7inde \u00fccretsiz iade.",
+        "questionsAndAnswersEnabled": true,
+        "ratingReviewEnabled": true,
+        "otherMerchantsEnabled": true,
+        "ratingReviewLikesEnabled": true,
+        "newRatingSummaryEnabled": true,
+        "redirectReviewsPageEnabled": true,
+        "languageCode": "tr",
+        "sizeCharts": [
+            [
+                "G\u00fcne\u015f G\u00f6zl\u00fc\u011f\u00fc",
+                "https://img-trendyol.mncdn.com/assets/banner/2018/webBanners/bedenTablosu/gozluk_beden_tablosu.jpg",
+                "G\u00f6zl\u00fck Beden K\u0131lavuzu"
+            ],
+            [
+                "\u0130maj G\u00f6zl\u00fckleri",
+                "https://img-trendyol.mncdn.com/assets/banner/2018/webBanners/bedenTablosu/gozluk_beden_tablosu.jpg",
+                "G\u00f6zl\u00fck Beden K\u0131lavuzu"
+            ],
+            [
+                "Saat",
+                "https://img-trendyol.mncdn.com/assets/banner/2018/webBanners/bedenTablosu/saatler_beden_tablosu.jpg",
+                "Saat Beden K\u0131lavuzu"
+            ]
+        ],
+        "enhancedEcommerceEnabled": true,
+        "addReviewEnabled": false,
+        "reviewReportAbuseEnabled": true,
+        "showImageOnProductCommentsEnabled": true,
+        "crossProductsTitle": "Bu \u00dcr\u00fcn\u00fc Alanlar Bunlar\u0131 da Ald\u0131",
+        "crossProductsEnabled": true,
+        "recommendationEnabled": true,
+        "productGroupEnabled": true,
+        "htmlContentEnabled": true,
+        "productAttributesEnabled": true,
+        "publishCriteriaEnabled": true,
+        "sellerAreaEnabled": true,
+        "sellerPointLowLimit": 8,
+        "sizeChartUrl": "https://cdn.dsmcdn.com/Assets/frontend-web-sizechart/tr1.html",
+        "productDetailMetaDescription": "Trendyol.com sayesinde {0} \u00fcr\u00fcn\u00fcne \u00e7ok \u00f6zel indirimlerle sahip olabilecek ve al\u0131\u015fveri\u015f al\u0131\u015fkanl\u0131klar\u0131n\u0131z\u0131 de\u011fi\u015ftireceksiniz.",
+        "siteAddress": "https://www.trendyol.com",
+        "notifyMeEnabled": true,
+        "notifyMeCount": 10,
+        "recommendationAbTestValue": "A_0-0,B_0-0,C_1-100",
+        "lastProductCountAbTestValue": "A_0-0,B_0-100",
+        "recoCardAbTestValue": "A_0-100,B_0-0",
+        "abTestingCookieName": "WebAbTesting",
+        "clientSideReviewsEnabled": false,
+        "clientSideHtmlContentEnabled": true,
+        "alternativeVariantsEnabled": true,
+        "relatedCategoryEnabled": true,
+        "relatedCategoryAbTestVariant": "C",
+        "relatedCategoryAbTestValue": "A_0-0,B_0-0,C_1-100,D_0-0,E_0-0",
+        "relatedCategoryTitleTooltipThreshold": 43,
+        "relatedCategoryCountLimit": 5,
+        "relatedCategoryImageVirtualBrandIds": [
+            33,
+            102347,
+            39,
+            141,
+            53,
+            981,
+            254,
+            204,
+            466,
+            155,
+            296,
+            586,
+            37,
+            131,
+            971,
+            178,
+            333,
+            129,
+            136,
+            49,
+            328,
+            179,
+            38,
+            101446,
+            568,
+            138,
+            859,
+            289,
+            754,
+            43,
+            128,
+            44,
+            618,
+            569,
+            535,
+            193,
+            660,
+            160,
+            303,
+            347,
+            1265,
+            658,
+            103029,
+            104699,
+            300,
+            103500,
+            103124,
+            101476,
+            103187,
+            104189,
+            208
+        ],
+        "relatedCategoryVirtualBrandImagePath": "assets/banner/2018/mobileCDN/brandFollow",
+        "defaultBrandCategoryCombinationImageUrl": "Assets/related-category-default-image.png",
+        "legalRequirementCacheDuration": 0,
+        "recoCrossCustomStampsEnabled": true,
+        "canShowSizeChartButton": true,
+        "productDetailImprovedBreadcrumbEnabled": true,
+        "sellerShippingEnabled": false,
+        "productDetailReportAbuseEnabled": true,
+        "productDetailReportAbuseItems": "[{\"id\": 0,\"value\": \"\u00dcr\u00fcn\u00fcn fiyat\u0131 hatal\u0131\"},{\"id\": 1,\"value\": \"G\u00f6rsel hatal\u0131\"},{\"id\": 2,\"value\": \"\u00dcr\u00fcn\u00fcn ismi eksik/hatal\u0131\"},{\"id\": 3,\"value\": \"\u00dcr\u00fcn \u00f6zellikleri eksik ya da hatal\u0131\"},{\"id\": 4,\"value\": \"\u00dcr\u00fcn\u00fcn kategorisi hatal\u0131\"}]",
+        "scheduledDeliveryWarningMessage": "Se\u00e7ti\u011finiz adrese \u015fu anda randevulu teslimat hizmeti bulunmamaktad\u0131r. \u00dcr\u00fcnleriniz kargo ile g\u00f6nderilecektir.",
+        "installmentStampAmountText": "9 TAKS\u0130T",
+        "starredAttributesLimit": 4,
+        "sellerStoreLinkEnabled": true,
+        "featuredCardFavButtonEnabled": true,
+        "openReviewModalEnabled": false,
+        "currencySymbol": "TL",
+        "newSearchEnabled": true,
+        "stampType": "TypeA",
+        "memberGwUrl": "https://public-sdc.trendyol.com/discovery-web-membergw-service",
+        "wishListUrl": "https://public-mdc.trendyol.com/discovery-web-websfxwishlist-santral",
+        "getNotifyMePreferencesFromMemberGw": true,
+        "publicProductGwUrl": "https://public.trendyol.com/discovery-web-productgw-service",
+        "publicSdcProductGwUrl": "https://public-sdc.trendyol.com/discovery-web-productgw-service",
+        "publicMdcProductGwUrl": "https://public-mdc.trendyol.com/discovery-web-productgw-service",
+        "publicVasSfxApiUrl": "https://public.trendyol.com/discovery-web-websfxcheckoutvasservice-santral",
+        "publicMdcRecoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+        "productRecommendationVersion": 2,
+        "publicSdcCheckoutGwUrl": "https://public-sdc.trendyol.com/discovery-web-checkout-service",
+        "publicMdcCheckoutGwUrl": "https://public-mdc.trendyol.com/discovery-web-checkout-service",
+        "addToBasketOnCheckoutgwEnabled": false,
+        "collectionRecommendationEnabled": true,
+        "showCargoRemainingDays": true,
+        "showLinearAlternativeVariants": false,
+        "sellerStoreUrl": "https://public-sdc.trendyol.com/discovery-sellerstore-webgw-service",
+        "minSellerFollowerCount": 1000,
+        "questionCountToShow": 3,
+        "collectableCouponsEnabled": true,
+        "publicSdcCouponGwUrl": "https://public-mdc.trendyol.com/discovery-web-coupongw-service",
+        "publicMdcCouponGwUrl": "https://public-mdc.trendyol.com/discovery-web-coupongw-service",
+        "vasServiceEnabled": true,
+        "showCrossPromotions": true,
+        "showWalletRebate": false,
+        "showDigitalGoodsRebate": false,
+        "pudoBannerMoreInformationText": "Sipari\u015findeki t\u00fcm \u00fcr\u00fcnlerin Gel-Al Noktas\u0131ndan teslimata uygun olmas\u0131 gerekmektedir.",
+        "showFlashSales": true,
+        "flashSalesTimeSlots": [
+            12,
+            15,
+            18,
+            21,
+            24
+        ],
+        "publicMdcSocialGwUrl": "https://public-mdc.trendyol.com/discovery-web-socialgw-service",
+        "publicSdcSocialGwUrl": "https://public-sdc.trendyol.com/discovery-web-socialgw-service",
+        "minInstallmentAmountEnabled": true,
+        "minInstallmentAmountMinPrice": 1000,
+        "minInstallmentAmountMinInstallment": 3,
+        "stickersEnabled": true,
+        "promotionImageEnabled": true,
+        "addToCollectionEnabled": true,
+        "productGroupSantralUrl": "https://public.trendyol.com/discovery-web-websfxproductgroups-santral",
+        "promotionImageSantralUrl": "https://public.trendyol.com/discovery-web-websfxpromotionproducts-santral",
+        "publicWebSfxProductRecommendationServiceUrl": "https://public-mdc.trendyol.com/discovery-web-websfxproductrecommendation-santral",
+        "componentReadApiUrl": "http://discovery-pdp-component-read-service.external",
+        "publicWebSfxCrossPromotionServiceUrl": "https://public.trendyol.com/discovery-pdp-websfxcrosspromotions-santral",
+        "publicMdcContractServiceUrl": "https://public-mdc.trendyol.com/discovery-web-websfxcontract-santral",
+        "thresholdDayForLongTermDelivery": 15,
+        "infoForLongTermDelivery": "\u00dcr\u00fcn tedarik / \u00fcretim s\u00fcresinin ard\u0131ndan kargolanacakt\u0131r.",
+        "infoForLongTermDeliveryBiggerThanMonth": "Bu \u00fcr\u00fcn, sipari\u015finize istinaden \u00fcretilmeye ba\u015flanacak olup \u00fcretim s\u00fcresinin ard\u0131ndan kargoya verilecektir.",
+        "priceBoxV2Enable": true,
+        "buyMorePayLessPromotionsText": "\u00c7ok Al, Az \u00d6de!",
+        "buyMorePayLessPromotionsEnabled": true,
+        "corporateInvoiceEnabled": true,
+        "tomorrowShippingEnabled": true,
+        "featuredPriceTooltipEnabled": true,
+        "pdpVideoEnabled": true,
+        "mediaCenterSantralUrl": "https://public-sdc.trendyol.com/discovery-web-websfxmediacenter-santral",
+        "pdpReportReasons": "[ { \"id\": \"COPYRIGHT\", \"value\": \"Telif hakk\u0131 ihlalli i\u00e7erik\" }, { \"id\": \"PERSONAL_INFORMATION\", \"value\": \"Ki\u015fisel bilgi/y\u00f6nlendirme\" }, { \"id\": \"NSFW\", \"value\": \"+18 i\u00e7erik\" }, { \"id\": \"FORBIDDEN_WORDS\", \"value\": \"Argo& yasakl\u0131 kelime\" }, { \"id\": \"POLITICAL_SPEECH\", \"value\": \"Politik/ayr\u0131mc\u0131 s\u00f6ylem\" }, { \"id\": \"THIRD_PARTY_MENTION\", \"value\": \"\u00dc\u00e7\u00fcnc\u00fc \u015fah\u0131s/kurum bahsi\"}, {\"id\": \"ABUSIVE_SPEECH\", \"value\": \"K\u00f6t\u00fcleyici s\u00f6ylem\" }, {\"id\": \"INACCURATE_INFORMATION\", \"value\": \"Hatal\u0131 bilgi\" }, {\"id\": \"TECHNICAL_ISSUE\", \"value\": \"Teknik sorun\"}, {\"id\": \"INAPPROPRIATE_CONTENT\", \"value\": \"\u0130\u00e7erik-\u00fcr\u00fcn uyumsuzlu\u011fu\" }]",
+        "navigationGwUrl": "https://public-mdc.trendyol.com/discovery-web-navigation-service",
+        "basketSuggestionGwUrl": "https://public-mdc.trendyol.com/discovery-web-websfxbasketsuggestion-santral",
+        "brandBasedCustomizationEnabled": true,
+        "customizedBrandIds": [
+            "102989",
+            "101470"
+        ],
+        "lastProductNumber": 3,
+        "locationBasedSalesEnabled": true,
+        "sellerBaseSantralUrl": "https://public.trendyol.com/discovery-web-websfxsellerbase-santral",
+        "basketRecoWidgetsByUxLayout": {
+            "Electronics - devices": {
+                "A": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ],
+                "B": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "Electronics - longtail": {
+                "A": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ],
+                "B": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "cosmetics": {
+                "A": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ],
+                "B": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "Hard Furniture": {
+                "A": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ],
+                "B": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "Mobilya": {
+                "A": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ],
+                "B": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "General Merchandise": {
+                "A": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ],
+                "B": [
+                    "MerchantBased",
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "FMCG": {
+                "A": [],
+                "B": [
+                    "MerchantBased"
+                ]
+            },
+            "Fashion": {
+                "A": [],
+                "B": [
+                    "CompleteCombine",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "Ev": {
+                "A": [],
+                "B": [
+                    "MerchantBased"
+                ]
+            }
+        },
+        "collectionRecommendationServiceUrl": "https://public-mdc.trendyol.com/discovery-pdp-websfxcollectionrecommendation-santral",
+        "priceHistorySantralUrl": "https://public.trendyol.com/discovery-web-websfxpricehistory-santral",
+        "priceHistoryFeatureEnabled": true,
+        "azDeliveryDateFeatureEnabled": true,
+        "hideInitialRatingValuesFromPdpEnabled": true,
+        "ignoredCorporateUXLayouts": [
+            "Fashion"
+        ],
+        "corporateSalesUserSegmentId": "410750067",
+        "corporateSalesUserSegmentTag": "1",
+        "feedbackExposedSFXFragmentEnabled": false,
+        "slpRecoExposedSFXFragmentEnabled": false,
+        "relatedCategoriesExposedSFXFragmentEnabled": false,
+        "emergencyVasBoutiqueInformationText": "\u00d6deme ekran\u0131nda kendi adresinizi se\u00e7ebilirsiniz. \u00dcr\u00fcn se\u00e7ti\u011finiz adrese de\u011fil, afet b\u00f6lgesine ula\u015ft\u0131r\u0131lacakt\u0131r.",
+        "azSelectedCookie": false,
+        "azPromotionText": "S\u0259b\u0259td\u0259 t\u0259tbiq olunacaq!",
+        "azEligibleCookie": false,
+        "azDeliveryEnabled": true,
+        "trendyolMillaTopBannerUrl": "https://cdn.dsmcdn.com/web/production/milla-desktop-banner-for-core.png",
+        "trendyolMillaTopBannerEnabled": false,
+        "millaBannerEnabledBrandIds": [
+            1093959,
+            1262112,
+            15508,
+            1966958,
+            40
+        ],
+        "availableMillaBannerMerchantIds": [
+            968
+        ],
+        "trendyolMillaUrl": "https://www.trendyol-milla.com/",
+        "ipAddress": "193.255.125.134",
+        "token": "",
+        "checkoutVasSantralUrl": "https://public-sdc.trendyol.com/discovery-web-websfxcheckoutvas-santral",
+        "stockWarningMinLimit": 3,
+        "stockWarningMaxLimit": 10,
+        "scrollToSimilar": false,
+        "excludedVariantKeyIds": [
+            1115,
+            1116,
+            1148,
+            1149
+        ],
+        "genericRecoSliderEnabled": false,
+        "merchantBasedRecoSliderEnabled": false,
+        "publicWebSfxAttributeRecommendationServiceUrl": "https://public.trendyol.com/discovery-web-websfxprebasketgenericreco-santral",
+        "publicWebSfxBasketRecoServiceUrl": "https://public.trendyol.com/discovery-web-websfxprebasketmerchantbasedreco-santral",
+        "isCorporateUser": false,
+        "isAzNewFlowEnabled": true,
+        "inventoryCenterSantralUrl": "https://public-sdc.trendyol.com/discovery-web-websfxinventorycenter-santral",
+        "azPriceTooltipText": "M\u0259hsul d\u0259y\u0259rinin manat qar\u015f\u0131l\u0131\u011f\u0131 TCMB-d\u0259n q\u0259bul edil\u0259n g\u00fcnl\u00fck d\u0259y\u0259rl\u0259r\u0259 g\u00f6r\u0259 hesablan\u0131r v\u0259 m\u0259lumat m\u0259qs\u0259dli olaraq t\u0259qdim edilir. Valyuta m\u0259z\u0259nn\u0259sind\u0259 g\u00fcn i\u00e7ind\u0259 ba\u015f ver\u0259n d\u0259yi\u015fiklikl\u0259r d\u0259rhal ekranlarda \u0259ks olunmaya bil\u0259r.",
+        "trendyolMillaBannerUrl": "https://cdn.dsmcdn.com/web/production/milla-desktop-banner-v4.png",
+        "sfxProductCombinationSantralUrl": "https://public.trendyol.com/discovery-pdp-websfxproductcombination-santral",
+        "complementaryProductsEnabled": true,
+        "isTrendyolMilla": false,
+        "isMillaFirstOrder": false,
+        "isMillaCampaignBannerEnabled": true,
+        "productRecommendationPage": 0,
+        "productRecommendationSize": 8,
+        "energyClassLabelEnabled": true,
+        "energyClassLabelTagId": 134,
+        "energyClassLabelScopeId": 794,
+        "productNotifyFormId": 1148,
+        "energyClassLabelImgId": 1149,
+        "energyClassLabelIds": {
+            "A_G": "1199781",
+            "A_TRIPLE_PLUS_D": "297332",
+            "A_PLUS_F": "297333",
+            "A_DOUBLE_PLUS_E": "297334",
+            "A_TRIPLE_PLUS": "1770",
+            "A_DOUBLE_PLUS": "1769",
+            "A_PLUS": "1768",
+            "A": "1771",
+            "B": "1767",
+            "C": "1772",
+            "D": "22193",
+            "E": "22194",
+            "F": "22195",
+            "G": "318772"
+        },
+        "energyClassLabelCdnUrls": {
+            "A_G": {
+                "A": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_A.png",
+                "B": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_B.png",
+                "C": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_C.png",
+                "D": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_D.png",
+                "E": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_E.png",
+                "F": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_F.png",
+                "G": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_G.png"
+            },
+            "A_TRIPLE_PLUS_D": {
+                "A_TRIPLE_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_A+++.png",
+                "A_DOUBLE_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_A++.png",
+                "A_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_A+.png",
+                "A": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_A.png",
+                "B": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_B.png",
+                "C": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_C.png",
+                "D": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_D.png"
+            },
+            "A_PLUS_F": {
+                "A_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_A+.png",
+                "A": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_A.png",
+                "B": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_B.png",
+                "C": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_C.png",
+                "D": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_D.png",
+                "E": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_E.png",
+                "F": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_F.png"
+            },
+            "A_DOUBLE_PLUS_E": {
+                "A_DOUBLE_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_A++.png",
+                "A_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_A+.png",
+                "A": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_A.png",
+                "B": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_B.png",
+                "C": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_C.png",
+                "D": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_D.png",
+                "E": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_E.png"
+            }
+        },
+        "categoryTopRankingNavEnabled": false,
+        "deliveryDateSantralUrl": "https://public.trendyol.com/discovery-pdp-websfxproductdeliverydate-santral"
+    }
+}

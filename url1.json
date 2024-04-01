@@ -1,0 +1,2026 @@
+{
+    "product": {
+        "listingId": "2501a7683be60aea5f2a03c38d7b012b",
+        "attributes": [
+            {
+                "key": {
+                    "name": "Garanti Tipi",
+                    "id": 290
+                },
+                "value": {
+                    "name": "\u0130thalat\u00e7\u0131 Garantili",
+                    "id": 4182
+                },
+                "starred": false,
+                "description": "",
+                "mediaUrls": []
+            },
+            {
+                "key": {
+                    "name": "Renk",
+                    "id": 348
+                },
+                "value": {
+                    "name": "Beyaz",
+                    "id": 3
+                },
+                "starred": false,
+                "description": "",
+                "mediaUrls": []
+            },
+            {
+                "key": {
+                    "name": "Garanti S\u00fcresi",
+                    "id": 433
+                },
+                "value": {
+                    "name": "2 Y\u0131l",
+                    "id": 20637
+                },
+                "starred": false,
+                "description": "",
+                "mediaUrls": []
+            }
+        ],
+        "selectedVasAttributes": [],
+        "alternativeVariants": [],
+        "variants": [
+            {
+                "attributeId": 0,
+                "attributeName": "",
+                "attributeType": "",
+                "attributeValue": "",
+                "stamps": [
+                    {
+                        "type": 1,
+                        "text": "KARGO BEDAVA"
+                    }
+                ],
+                "price": {
+                    "profitMargin": 0,
+                    "discountedPrice": {
+                        "text": "32.800 TL",
+                        "value": 32800
+                    },
+                    "sellingPrice": {
+                        "text": "32.800 TL",
+                        "value": 32800
+                    },
+                    "originalPrice": {
+                        "text": "32.800 TL",
+                        "value": 32800
+                    },
+                    "currency": "TRY"
+                },
+                "fulfilmentType": "mp",
+                "attributeBeautifiedValue": "",
+                "isWinner": true,
+                "listingId": "2501a7683be60aea5f2a03c38d7b012b",
+                "stock": 0,
+                "sellable": true,
+                "availableForClaim": true,
+                "barcode": "2308277161799",
+                "itemNumber": 1034117510,
+                "discountedPriceInfo": "",
+                "hasCollectable": false,
+                "unitInfo": {
+                    "unitPrice": false,
+                    "unitPriceText": false
+                },
+                "rushDeliveryMerchantListingExist": true,
+                "lowerPriceMerchantListingExist": false,
+                "groupTagIds": []
+            }
+        ],
+        "otherMerchants": [
+            {
+                "listingId": "d8dc21b7b653ace85cbdf83e86954cd6",
+                "url": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656?boutiqueId=61&merchantId=912630",
+                "reviewsUrl": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656/yorumlar",
+                "questionsUrl": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656/saticiya-sor?merchantId=912630",
+                "promotions": [],
+                "discountedPriceInfo": "",
+                "isSellable": true,
+                "isBasketDiscount": false,
+                "hasStock": true,
+                "price": {
+                    "profitMargin": 0,
+                    "discountedPrice": {
+                        "text": "35.900 TL",
+                        "value": 35900
+                    },
+                    "sellingPrice": {
+                        "text": "35.900 TL",
+                        "value": 35900
+                    },
+                    "originalPrice": {
+                        "text": "35.900 TL",
+                        "value": 35900
+                    },
+                    "currency": "TRY"
+                },
+                "isFreeCargo": true,
+                "merchant": {
+                    "isSearchableMerchant": true,
+                    "stickers": [],
+                    "merchantBadges": [],
+                    "merchantMarkers": [],
+                    "id": 912630,
+                    "name": "gdelektronik",
+                    "officialName": "MADONA VALISHVILI",
+                    "cityName": "\u0130stanbul",
+                    "registeredEmailAddress": "madona.valishvili@hs01.kep.tr",
+                    "taxNumber": "9220798043",
+                    "sellerScore": 8.9,
+                    "sellerScoreColor": "08B449",
+                    "deliveryProviderName": "gdelektronik",
+                    "corporateInvoiceApplicable": true,
+                    "locationBasedSales": false
+                },
+                "isBlacklist": false
+            },
+            {
+                "listingId": "3b61939c222c2e26625e03d4625c9f28",
+                "url": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656?boutiqueId=61&merchantId=772827",
+                "reviewsUrl": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656/yorumlar",
+                "questionsUrl": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656/saticiya-sor?merchantId=772827",
+                "promotions": [],
+                "discountedPriceInfo": "",
+                "isSellable": true,
+                "isBasketDiscount": false,
+                "hasStock": true,
+                "price": {
+                    "profitMargin": 0,
+                    "discountedPrice": {
+                        "text": "38.299 TL",
+                        "value": 38299
+                    },
+                    "sellingPrice": {
+                        "text": "38.299 TL",
+                        "value": 38299
+                    },
+                    "originalPrice": {
+                        "text": "38.299 TL",
+                        "value": 38299
+                    },
+                    "currency": "TRY"
+                },
+                "isFreeCargo": true,
+                "merchant": {
+                    "isSearchableMerchant": true,
+                    "stickers": [],
+                    "merchantBadges": [
+                        {
+                            "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+                            "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+                            "type": "BADGE"
+                        }
+                    ],
+                    "merchantMarkers": [],
+                    "id": 772827,
+                    "name": "MARKON",
+                    "officialName": "SAM\u0130 B\u00d6REK",
+                    "cityName": "\u0130zmir",
+                    "registeredEmailAddress": "sami.borek@hs01.kep.tr",
+                    "taxNumber": "1870293658",
+                    "sellerScore": 8.5,
+                    "sellerScoreColor": "08B449",
+                    "deliveryProviderName": "MARKON",
+                    "corporateInvoiceApplicable": true,
+                    "locationBasedSales": false
+                },
+                "isBlacklist": false
+            },
+            {
+                "listingId": "b65d57f7914a156ad1277239d2887bdf",
+                "url": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656?boutiqueId=61&merchantId=222627",
+                "reviewsUrl": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656/yorumlar",
+                "questionsUrl": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656/saticiya-sor?merchantId=222627",
+                "promotions": [],
+                "discountedPriceInfo": "",
+                "isSellable": true,
+                "isBasketDiscount": false,
+                "hasStock": true,
+                "price": {
+                    "profitMargin": 0,
+                    "discountedPrice": {
+                        "text": "38.469 TL",
+                        "value": 38469
+                    },
+                    "sellingPrice": {
+                        "text": "38.469 TL",
+                        "value": 38469
+                    },
+                    "originalPrice": {
+                        "text": "38.469 TL",
+                        "value": 38469
+                    },
+                    "currency": "TRY"
+                },
+                "isFreeCargo": true,
+                "merchant": {
+                    "isSearchableMerchant": true,
+                    "stickers": [],
+                    "merchantBadges": [
+                        {
+                            "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/basarili_satici.svg",
+                            "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/ios_basarili_satici.png",
+                            "type": "BADGE"
+                        },
+                        {
+                            "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+                            "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+                            "type": "BADGE"
+                        }
+                    ],
+                    "merchantMarkers": [],
+                    "id": 222627,
+                    "name": "Gelecek Evimde LTD. \u015eT\u0130.",
+                    "officialName": "GELECEK EV\u0130MDE B\u0130L\u0130\u015e\u0130M TEKNOLOJ\u0130LER\u0130 L\u0130M\u0130TED \u015e\u0130RKET\u0130",
+                    "cityName": "Ankara",
+                    "centralRegistrationSystemNumber": "0390103763600001",
+                    "registeredEmailAddress": "gelecekevimde@hs01.kep.tr",
+                    "taxNumber": "3901037636",
+                    "sellerScore": 9.8,
+                    "sellerScoreColor": "049B24",
+                    "deliveryProviderName": "Gelecek Evimde LTD. \u015eT\u0130.",
+                    "corporateInvoiceApplicable": true,
+                    "locationBasedSales": false,
+                    "bulkSalesLimit": 50
+                },
+                "isBlacklist": false
+            },
+            {
+                "listingId": "31d0d0d09b58f8703eb15f0cbc631a35",
+                "url": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656?boutiqueId=61&merchantId=886771",
+                "reviewsUrl": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656/yorumlar",
+                "questionsUrl": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656/saticiya-sor?merchantId=886771",
+                "promotions": [],
+                "discountedPriceInfo": "",
+                "isSellable": true,
+                "isBasketDiscount": false,
+                "hasStock": true,
+                "price": {
+                    "profitMargin": 0,
+                    "discountedPrice": {
+                        "text": "32.899 TL",
+                        "value": 32899
+                    },
+                    "sellingPrice": {
+                        "text": "32.899 TL",
+                        "value": 32899
+                    },
+                    "originalPrice": {
+                        "text": "32.899 TL",
+                        "value": 32899
+                    },
+                    "currency": "TRY"
+                },
+                "isFreeCargo": true,
+                "merchant": {
+                    "isSearchableMerchant": true,
+                    "stickers": [],
+                    "merchantBadges": [],
+                    "merchantMarkers": [],
+                    "id": 886771,
+                    "name": "Vathka",
+                    "officialName": "FERAJE MODA TEKST\u0130L SANAY\u0130 \u0130\u00c7 VE DI\u015e T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130",
+                    "cityName": "\u0130stanbul",
+                    "centralRegistrationSystemNumber": "0385198686500001",
+                    "registeredEmailAddress": "feraje.moda@hs01.kep.tr",
+                    "taxNumber": "3851986865",
+                    "sellerScore": 9.4,
+                    "sellerScoreColor": "049B24",
+                    "deliveryProviderName": "Vathka",
+                    "corporateInvoiceApplicable": true,
+                    "locationBasedSales": false
+                },
+                "isBlacklist": false
+            }
+        ],
+        "campaign": {
+            "id": 61,
+            "name": "T\u00fcm \u00dcr\u00fcnler",
+            "startDate": "2010-01-01T17:04:05",
+            "endDate": "2061-01-01T18:04:05",
+            "isMultipleSupplied": false,
+            "stockTypeId": 7,
+            "url": "/tum-urunler/butikdetay/61",
+            "showTimer": false
+        },
+        "category": {
+            "id": 104039,
+            "name": "Sanal Ger\u00e7eklik G\u00f6zl\u00fckleri",
+            "hierarchy": "Elektronik/Giyilebilir Teknoloji/Sanal Ger\u00e7eklik G\u00f6zl\u00fc\u011f\u00fc",
+            "refundable": true,
+            "beautifiedName": "sanal-gerceklik-gozlukleri",
+            "isVASEnabled": true
+        },
+        "brand": {
+            "isVirtual": false,
+            "beautifiedName": "meta",
+            "id": 1004252,
+            "name": "META",
+            "path": "/meta-x-b1004252"
+        },
+        "color": "Beyaz",
+        "metaBrand": {
+            "id": 1004252,
+            "name": "META",
+            "beautifiedName": "",
+            "isVirtual": false,
+            "path": ""
+        },
+        "showVariants": false,
+        "showSexualContent": true,
+        "brandCategoryBanners": [],
+        "allVariants": [
+            {
+                "itemNumber": 1034117510,
+                "value": "",
+                "inStock": true,
+                "currency": "TRY",
+                "barcode": "2308277161799",
+                "price": 32899
+            }
+        ],
+        "otherMerchantVariants": [],
+        "socialProof": {},
+        "token": "",
+        "isThereAnyCorporateInvoiceInOtherMerchants": true,
+        "categoryTopRankings": {
+            "name": "topViewed",
+            "order": 9,
+            "url": "/sirali-urunler?categoryId=104039&type=topViewed&webGenderId=0",
+            "text": "en \u00e7ok ziyaret edilen"
+        },
+        "isVasEnabled": true,
+        "originalCategory": {
+            "id": 1891,
+            "name": "Sanal Ger\u00e7eklik G\u00f6zl\u00fc\u011f\u00fc",
+            "hierarchy": "Elektronik/Giyilebilir Teknoloji/Sanal Ger\u00e7eklik G\u00f6zl\u00fc\u011f\u00fc",
+            "refundable": true,
+            "beautifiedName": "sanal-gerceklik-gozlugu",
+            "isVASEnabled": true
+        },
+        "landings": [],
+        "id": 780569656,
+        "productCode": "B0CD1JTBSC",
+        "name": "Quest 3 - 512 GB  Uyumlu  Sanal Ger\u00e7eklik G\u00f6zl\u00fc\u011f\u00fc",
+        "nameWithProductCode": "Quest 3 - 512 GB  Uyumlu  Sanal Ger\u00e7eklik G\u00f6zl\u00fc\u011f\u00fc B0CD1JTBSC",
+        "contentDescriptions": [
+            {
+                "description": "Meta Quest 3 512GB - Breakthrough Mixed Reality Evinizi, sanal \u00f6\u011felerin ger\u00e7ek \u00e7evrenizle harmanland\u0131\u011f\u0131, heyecan verici yeni bir oyun alan\u0131na d\u00f6n\u00fc\u015ft\u00fcren karma ger\u00e7eklik kulakl\u0131\u011f\u0131yla ola\u011fan\u00fcst\u00fc deneyimlere dal\u0131n.",
+                "bold": false
+            },
+            {
+                "description": "Bu \u015fimdiye kadarki en g\u00fc\u00e7l\u00fc Quest'tir ve Quest 2'nin grafik i\u015flem g\u00fcc\u00fcn\u00fcn iki kat\u0131ndan fazlas\u0131na sahip \u00fcst d\u00fczey performans sunar. ( Snapdragon XR2 Gen 2 ile Meta Quest 2 aras\u0131ndaki grafik performans\u0131 temel al\u0131nm\u0131\u015ft\u0131r.)",
+                "bold": false
+            },
+            {
+                "description": "4K+ Sonsuz Ekran (Quest 2'ye g\u00f6re \u00e7\u00f6z\u00fcn\u00fcrl\u00fckte neredeyse %30'luk bir s\u0131\u00e7rama) ve geli\u015fmi\u015f ses netli\u011fi, bas performans\u0131 ve Quest 3'e g\u00f6re %40 daha y\u00fcksek ses aral\u0131\u011f\u0131 ile zengin 3D ses ile g\u00f6z kama\u015ft\u0131r\u0131c\u0131 g\u00f6rsellerle daha fazla sarmal deneyimi ya\u015fay\u0131n.",
+                "bold": false
+            },
+            {
+                "description": "Size ince ayarl\u0131 hassasiyet, ger\u00e7ek\u00e7i hisler ve daha sezgisel etkile\u015fimler sunan Touch Plus denetleyicilerle sanal d\u00fcnyalara ula\u015f\u0131n ve dokunun. Hareketlerinizi takip eden Direct Touch ile kontrol cihazlar\u0131 olmadan bile gezinebilirsiniz, b\u00f6ylece yolunuzu bulmak i\u00e7in yaln\u0131zca ellerinizi kullanabilirsiniz",
+                "bold": false
+            },
+            {
+                "description": "Gizlilik \u00f6zellikleri ve denetim ara\u00e7lar\u0131 sayesinde ailedeki herkes g\u00fcvenli bir \u015fekilde ke\u015ffedebilir. Meta Quest 13+ ya\u015f i\u00e7indir.",
+                "bold": false
+            },
+            {
+                "description": "Bu \u00fcr\u00fcnden en fazla 1 adet sipari\u015f verilebilir. 1 adetin \u00fczerindeki sipari\u015fleri Trendyol iptal etme hakk\u0131n\u0131 sakl\u0131 tutar.",
+                "bold": false
+            },
+            {
+                "description": "\u0130ncelemi\u015f oldu\u011funuz \u00fcr\u00fcn\u00fcn sat\u0131\u015f fiyat\u0131n\u0131 sat\u0131c\u0131 belirlemektedir.",
+                "bold": false
+            },
+            {
+                "description": "Bir \u00fcr\u00fcn, birden fazla sat\u0131c\u0131 taraf\u0131ndan sat\u0131labilir. Birden fazla sat\u0131c\u0131 taraf\u0131ndan sat\u0131\u015fa sunulan \u00fcr\u00fcnlerin sat\u0131c\u0131lar\u0131 \u00fcr\u00fcn i\u00e7in belirledikleri fiyata, sat\u0131c\u0131 puanlar\u0131na, teslimat stat\u00fclerine, \u00fcr\u00fcnlerdeki promosyonlara, kargonun bedava olup olmamas\u0131na ve \u00fcr\u00fcnlerin h\u0131zl\u0131 teslimat ile teslim edilip edilememesine, \u00fcr\u00fcnlerin stok ve kategorileri bilgilerine g\u00f6re s\u0131ralanmaktad\u0131r.",
+                "bold": false
+            }
+        ],
+        "faqs": [],
+        "descriptions": [
+            {
+                "text": "Bu \u00fcr\u00fcn\u00a0[page=\"merchant_info\"]Hediyepaketim[/page]\u00a0taraf\u0131ndan g\u00f6nderilecektir.",
+                "priority": 2
+            },
+            {
+                "text": "Kampanya fiyat\u0131ndan sat\u0131lmak \u00fczere 5 adetten az stok bulunmaktad\u0131r.",
+                "priority": 4
+            },
+            {
+                "text": "\u0130ncelemi\u015f oldu\u011funuz \u00fcr\u00fcn\u00fcn sat\u0131\u015f fiyat\u0131n\u0131 sat\u0131c\u0131 belirlemektedir.",
+                "priority": 7
+            },
+            {
+                "text": "Bir \u00fcr\u00fcn, birden fazla sat\u0131c\u0131 taraf\u0131ndan sat\u0131labilir. Birden fazla sat\u0131c\u0131 taraf\u0131ndan sat\u0131\u015fa sunulan \u00fcr\u00fcnlerin sat\u0131c\u0131lar\u0131 \u00fcr\u00fcn i\u00e7in belirledikleri fiyata, sat\u0131c\u0131 puanlar\u0131na, teslimat stat\u00fclerine, \u00fcr\u00fcnlerdeki promosyonlara, kargonun bedava olup olmamas\u0131na ve \u00fcr\u00fcnlerin h\u0131zl\u0131 teslimat ile teslim edilip edilememesine, \u00fcr\u00fcnlerin stok ve kategorileri bilgilerine g\u00f6re s\u0131ralanmaktad\u0131r.",
+                "priority": 1001
+            },
+            {
+                "text": "Bu \u00fcr\u00fcnden en fazla\u00a01 adet sipari\u015f verilebilir.\u00a01 adedin \u00fczerindeki sipari\u015fleri Trendyol iptal etme hakk\u0131n\u0131 sakl\u0131 tutar.\u00a0Belirlenen bu limit kurumsal sipari\u015flerde ge\u00e7erli olmay\u0131p, kurumsal sipari\u015fler i\u00e7in farkl\u0131 limitler belirlenebilmektedir.",
+                "priority": 1003
+            },
+            {
+                "text": "15 g\u00fcn i\u00e7inde \u00fccretsiz iade. Detayl\u0131 bilgi i\u00e7in\u00a0[page=\"return_conditions\"]t\u0131klay\u0131n[/page].",
+                "priority": 1005
+            },
+            {
+                "text": "Meta Quest 3 512GB - Breakthrough Mixed Reality Evinizi, sanal \u00f6\u011felerin ger\u00e7ek \u00e7evrenizle harmanland\u0131\u011f\u0131, heyecan verici yeni bir oyun alan\u0131na d\u00f6n\u00fc\u015ft\u00fcren karma ger\u00e7eklik kulakl\u0131\u011f\u0131yla ola\u011fan\u00fcst\u00fc deneyimlere dal\u0131n.",
+                "priority": 0
+            },
+            {
+                "text": "Bu \u015fimdiye kadarki en g\u00fc\u00e7l\u00fc Quest'tir ve Quest 2'nin grafik i\u015flem g\u00fcc\u00fcn\u00fcn iki kat\u0131ndan fazlas\u0131na sahip \u00fcst d\u00fczey performans sunar. ( Snapdragon XR2 Gen 2 ile Meta Quest 2 aras\u0131ndaki grafik performans\u0131 temel al\u0131nm\u0131\u015ft\u0131r.)",
+                "priority": 0
+            },
+            {
+                "text": "4K+ Sonsuz Ekran (Quest 2'ye g\u00f6re \u00e7\u00f6z\u00fcn\u00fcrl\u00fckte neredeyse %30'luk bir s\u0131\u00e7rama) ve geli\u015fmi\u015f ses netli\u011fi, bas performans\u0131 ve Quest 3'e g\u00f6re %40 daha y\u00fcksek ses aral\u0131\u011f\u0131 ile zengin 3D ses ile g\u00f6z kama\u015ft\u0131r\u0131c\u0131 g\u00f6rsellerle daha fazla sarmal deneyimi ya\u015fay\u0131n.",
+                "priority": 0
+            },
+            {
+                "text": "Size ince ayarl\u0131 hassasiyet, ger\u00e7ek\u00e7i hisler ve daha sezgisel etkile\u015fimler sunan Touch Plus denetleyicilerle sanal d\u00fcnyalara ula\u015f\u0131n ve dokunun. Hareketlerinizi takip eden Direct Touch ile kontrol cihazlar\u0131 olmadan bile gezinebilirsiniz, b\u00f6ylece yolunuzu bulmak i\u00e7in yaln\u0131zca ellerinizi kullanabilirsiniz",
+                "priority": 0
+            },
+            {
+                "text": "Gizlilik \u00f6zellikleri ve denetim ara\u00e7lar\u0131 sayesinde ailedeki herkes g\u00fcvenli bir \u015fekilde ke\u015ffedebilir. Meta Quest 13+ ya\u015f i\u00e7indir.",
+                "priority": 0
+            }
+        ],
+        "productGroupId": 595444022,
+        "tax": 20,
+        "businessUnit": "Giyilebilir Teknoloji & Kulakl\u0131klar",
+        "businessUnitId": 100300,
+        "maxInstallment": 3,
+        "gender": {},
+        "url": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656?boutiqueId=61&merchantId=111285",
+        "images": [
+            "/ty1044/product/media/images/prod/SPM/PIM/20231115/12/40cce5b2-946f-3a0a-be54-62b1b056ac5d/1_org_zoom.jpg"
+        ],
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": false,
+        "price": {
+            "profitMargin": 0,
+            "discountedPrice": {
+                "text": "32.800 TL",
+                "value": 32800
+            },
+            "sellingPrice": {
+                "text": "32.800 TL",
+                "value": 32800
+            },
+            "originalPrice": {
+                "text": "32.800 TL",
+                "value": 32800
+            },
+            "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "promotions": [
+            {
+                "promotionRemainingTime": "",
+                "isOnlyAz": false,
+                "isLimitSatisfied": false,
+                "type": 2,
+                "text": "200 TL ve \u00dczeri Kargo Bedava (Sat\u0131c\u0131 Kar\u015f\u0131lar)",
+                "id": 11122380,
+                "promotionDiscountType": "Cargo",
+                "link": "/sr?prm=11122380"
+            }
+        ],
+        "merchant": {
+            "isSearchableMerchant": true,
+            "stickers": [],
+            "merchantBadges": [],
+            "merchantMarkers": [],
+            "id": 111285,
+            "name": "Hediyepaketim",
+            "officialName": "G\u00dc\u00c7L\u00dc B\u0130LG\u0130 TEKNOLOJ\u0130LER\u0130 DI\u015e T\u0130CARET VE SANAY\u0130 L\u0130M\u0130TED \u015e\u0130RKET\u0130",
+            "cityName": "\u0130stanbul",
+            "centralRegistrationSystemNumber": "0412084849800001",
+            "registeredEmailAddress": "hediyepaketim@hs01.kep.tr",
+            "taxNumber": "4120848498",
+            "sellerScore": 8.5,
+            "sellerScoreColor": "08B449",
+            "deliveryProviderName": "Hediyepaketim",
+            "corporateInvoiceApplicable": true,
+            "locationBasedSales": false,
+            "sellerLink": "/magaza/hediyepaketim-m-111285"
+        },
+        "merchantListings": [
+            {
+                "beta": false,
+                "deliveryStartDate": "2024-03-30T14:26:44",
+                "deliveryEndDate": "2024-04-03T14:26:44",
+                "merchant": {
+                    "id": 912630,
+                    "name": "gdelektronik",
+                    "officialName": "MADONA VALISHVILI",
+                    "cityName": "\u0130stanbul",
+                    "registeredEmailAddress": "madona.valishvili@hs01.kep.tr",
+                    "taxNumber": "9220798043",
+                    "sellerScore": 8.9,
+                    "sellerScoreColor": "08B449",
+                    "districtName": "Kad\u0131k\u00f6y",
+                    "countryName": "T\u00dcRK\u0130YE",
+                    "address": "Mahalle/Semt:RAS\u0130MPA\u015eA MAH. Cadde/Sokak:MAC\u0130T ERBUDAK SK. No:17 \u0130\u00e7 Kap\u0131 No:5",
+                    "logoUrl": "https://cdn.dsmcdn.com/seller-store/preview/logo.jpeg",
+                    "stickers": [],
+                    "merchantBadges": [],
+                    "corporateInvoiceApplicable": true,
+                    "affiliate": "TRENDYOLTR",
+                    "merchantMarkers": [],
+                    "componentCodes": [],
+                    "locationBasedSales": false,
+                    "mpAgreedDTD": true,
+                    "mpEstimatedPackageDTD": true,
+                    "allMpEstimatedPackageDTD": true,
+                    "dropShipmentSupplier": false,
+                    "texApplicable": false
+                },
+                "campaign": {
+                    "id": 61,
+                    "name": "T\u00fcm \u00dcr\u00fcnler",
+                    "stockTypeId": 7,
+                    "startDate": "2010-01-01T17:04:05",
+                    "endDate": "2061-01-01T18:04:05",
+                    "tags": [],
+                    "isMultipleSupplied": false
+                },
+                "promotions": [
+                    {
+                        "id": 11713433,
+                        "name": "200 TL ve \u00dczeri Kargo Bedava (Sat\u0131c\u0131 Kar\u015f\u0131lar)",
+                        "discountType": 7,
+                        "promotionDiscountType": "Cargo",
+                        "promotionEndDate": "2050-01-01T00:00:00",
+                        "promotionRemainingDays": 9408,
+                        "promotionRemainingHours": 9,
+                        "promotionRemainingMinutes": 33,
+                        "isLimitSatisfied": false,
+                        "shortName": "Kargo Bedava",
+                        "mocPerUser": 0,
+                        "isOnlyAz": false
+                    }
+                ],
+                "crossPromotions": [],
+                "variants": [
+                    {
+                        "listingId": "d8dc21b7b653ace85cbdf83e86954cd6",
+                        "fulfilmentType": "mp",
+                        "itemNumber": 1034117510,
+                        "barcode": "044004ss",
+                        "tyBarcode": "2308277161799",
+                        "quantity": 1,
+                        "price": {
+                            "buyingPrice": 0,
+                            "sellingPrice": 35900,
+                            "originalPrice": 35900,
+                            "manipulatedOriginalPrice": 35900,
+                            "discountedPrice": 35900,
+                            "currency": "TRY",
+                            "profitMargin": 0
+                        },
+                        "freeCargo": true,
+                        "availableForClaim": true,
+                        "discountedPriceInfo": "",
+                        "hasCollectable": false,
+                        "deci": 0,
+                        "rushDeliveryDuration": 24,
+                        "variantAttributes": [],
+                        "scores": [
+                            {
+                                "key": "1",
+                                "value": 999510.8318782682,
+                                "campaignId": 61
+                            },
+                            {
+                                "key": "2",
+                                "value": 999510.8318782682,
+                                "campaignId": 61
+                            }
+                        ],
+                        "maxProductSaleQuantity": 5,
+                        "unitInfo": {},
+                        "supplementaryServices": [],
+                        "groupTagIds": [],
+                        "rushDeliveryMerchantListingExist": false,
+                        "lowerPriceMerchantListingExist": false,
+                        "hasGroupDeal": false,
+                        "fastDeliveryOptions": [],
+                        "overPriced": false,
+                        "sellable": true,
+                        "scheduledDelivery": false,
+                        "isFlash": false,
+                        "isWinner": true,
+                        "isDiscountedListing": false
+                    }
+                ],
+                "stamps": [
+                    {
+                        "type": "TypeA",
+                        "imageUrl": "/indexing-sticker-stamp/moon/a65268f7-f8d3-430f-aa82-f5b6eee7a251.png",
+                        "position": "lower-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1000
+                    }
+                ],
+                "alternativeVariants": [],
+                "maxProductSaleQuantity": 5,
+                "cargoStartDate": "2024-03-30T14:26:44",
+                "cargoRemainingDays": 1,
+                "hasCheapestVariant": false,
+                "agreedDeliveryDays": 1,
+                "buyMorePayLessPromotions": [],
+                "customValues": [
+                    {
+                        "key": "deliveryCountries",
+                        "value": "AZ"
+                    },
+                    {
+                        "key": "stockCode",
+                        "value": "02210"
+                    },
+                    {
+                        "key": "vatRate",
+                        "value": "20"
+                    },
+                    {
+                        "key": "giftBox",
+                        "value": "false"
+                    },
+                    {
+                        "key": "giftText",
+                        "value": "false"
+                    }
+                ],
+                "searchableTags": [],
+                "freeCargo": false,
+                "isWinner": false
+            },
+            {
+                "beta": false,
+                "deliveryStartDate": "2024-03-30T14:26:44",
+                "deliveryEndDate": "2024-04-03T14:26:44",
+                "merchant": {
+                    "id": 772827,
+                    "name": "MARKON",
+                    "officialName": "SAM\u0130 B\u00d6REK",
+                    "cityName": "\u0130zmir",
+                    "registeredEmailAddress": "sami.borek@hs01.kep.tr",
+                    "taxNumber": "1870293658",
+                    "sellerScore": 8.5,
+                    "sellerScoreColor": "08B449",
+                    "districtName": "Karaba\u011flar",
+                    "countryName": "T\u00fcrkiye",
+                    "address": "Mahalle/Semt:FAHRETT\u0130N ALTAY MAH. Cadde/Sokak:65/18 SK.  No:28-A",
+                    "logoUrl": "https://cdn.dsmcdn.com/seller-store/preview/logo.jpeg",
+                    "stickers": [],
+                    "merchantBadges": [
+                        {
+                            "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+                            "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+                            "type": "BADGE"
+                        }
+                    ],
+                    "corporateInvoiceApplicable": true,
+                    "affiliate": "TRENDYOLTR",
+                    "merchantMarkers": [],
+                    "componentCodes": [],
+                    "locationBasedSales": false,
+                    "mpAgreedDTD": true,
+                    "mpEstimatedPackageDTD": true,
+                    "allMpEstimatedPackageDTD": true,
+                    "dropShipmentSupplier": false,
+                    "texApplicable": false
+                },
+                "campaign": {
+                    "id": 61,
+                    "name": "T\u00fcm \u00dcr\u00fcnler",
+                    "stockTypeId": 7,
+                    "startDate": "2010-01-01T17:04:05",
+                    "endDate": "2061-01-01T18:04:05",
+                    "tags": [],
+                    "isMultipleSupplied": false
+                },
+                "promotions": [
+                    {
+                        "id": 11729442,
+                        "name": "200 TL ve \u00dczeri Kargo Bedava (Sat\u0131c\u0131 Kar\u015f\u0131lar)",
+                        "discountType": 7,
+                        "promotionDiscountType": "Cargo",
+                        "promotionEndDate": "2050-01-01T00:00:00",
+                        "promotionRemainingDays": 9408,
+                        "promotionRemainingHours": 9,
+                        "promotionRemainingMinutes": 33,
+                        "isLimitSatisfied": false,
+                        "shortName": "Kargo Bedava",
+                        "mocPerUser": 0,
+                        "isOnlyAz": false
+                    }
+                ],
+                "crossPromotions": [],
+                "variants": [
+                    {
+                        "listingId": "3b61939c222c2e26625e03d4625c9f28",
+                        "fulfilmentType": "mp",
+                        "itemNumber": 1034117510,
+                        "barcode": "2308277161799",
+                        "tyBarcode": "2308277161799",
+                        "quantity": 2,
+                        "price": {
+                            "buyingPrice": 0,
+                            "sellingPrice": 38299,
+                            "originalPrice": 38299,
+                            "manipulatedOriginalPrice": 38299,
+                            "discountedPrice": 38299,
+                            "currency": "TRY",
+                            "profitMargin": 0
+                        },
+                        "freeCargo": true,
+                        "availableForClaim": true,
+                        "discountedPriceInfo": "",
+                        "hasCollectable": false,
+                        "deci": 0,
+                        "rushDeliveryDuration": 24,
+                        "variantAttributes": [],
+                        "scores": [
+                            {
+                                "key": "1",
+                                "value": 999477.3156885272,
+                                "campaignId": 61
+                            },
+                            {
+                                "key": "2",
+                                "value": 999477.3156885272,
+                                "campaignId": 61
+                            }
+                        ],
+                        "maxProductSaleQuantity": 1,
+                        "unitInfo": {},
+                        "supplementaryServices": [],
+                        "groupTagIds": [],
+                        "rushDeliveryMerchantListingExist": false,
+                        "lowerPriceMerchantListingExist": false,
+                        "hasGroupDeal": false,
+                        "fastDeliveryOptions": [
+                            {
+                                "type": "TOMORROW_SHIPPING",
+                                "dailyCutoffHour": "00:00"
+                            }
+                        ],
+                        "overPriced": false,
+                        "sellable": true,
+                        "scheduledDelivery": false,
+                        "isFlash": false,
+                        "isWinner": true,
+                        "isDiscountedListing": false
+                    }
+                ],
+                "stamps": [
+                    {
+                        "type": "TypeA",
+                        "imageUrl": "/indexing-sticker-stamp/moon/a65268f7-f8d3-430f-aa82-f5b6eee7a251.png",
+                        "position": "lower-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1000
+                    }
+                ],
+                "alternativeVariants": [],
+                "maxProductSaleQuantity": 1,
+                "cargoStartDate": "2024-03-30T14:26:44",
+                "cargoRemainingDays": 1,
+                "hasCheapestVariant": false,
+                "agreedDeliveryDays": 1,
+                "buyMorePayLessPromotions": [],
+                "customValues": [
+                    {
+                        "key": "dimensionalWeight",
+                        "value": "0.0"
+                    },
+                    {
+                        "key": "stockCode",
+                        "value": "---"
+                    },
+                    {
+                        "key": "vatRate",
+                        "value": "20"
+                    },
+                    {
+                        "key": "deliveryCountries",
+                        "value": "AZ"
+                    }
+                ],
+                "searchableTags": [],
+                "freeCargo": false,
+                "isWinner": false
+            },
+            {
+                "beta": false,
+                "deliveryStartDate": "2024-03-29T14:26:44",
+                "deliveryEndDate": "2024-04-05T14:26:44",
+                "merchant": {
+                    "id": 222627,
+                    "name": "Gelecek Evimde LTD. \u015eT\u0130.",
+                    "officialName": "GELECEK EV\u0130MDE B\u0130L\u0130\u015e\u0130M TEKNOLOJ\u0130LER\u0130 L\u0130M\u0130TED \u015e\u0130RKET\u0130",
+                    "cityName": "Ankara",
+                    "centralRegistrationSystemNumber": "0390103763600001",
+                    "registeredEmailAddress": "gelecekevimde@hs01.kep.tr",
+                    "taxNumber": "3901037636",
+                    "sellerScore": 9.8,
+                    "sellerScoreColor": "049B24",
+                    "districtName": "Etimesgut",
+                    "countryName": "T\u00fcrkiye",
+                    "address": "Mahalle/Semt:YE\u015e\u0130LOVA MAH. Cadde/Sokak:4017 CAD. CA\u011e DORA No:18 \u0130\u00e7 Kap\u0131 No:37",
+                    "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/222627/e3e3c19d-bd43-44e0-ab19-d25ad7a27295.jpeg",
+                    "stickers": [],
+                    "merchantBadges": [
+                        {
+                            "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/basarili_satici.svg",
+                            "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/ios_basarili_satici.png",
+                            "type": "BADGE"
+                        },
+                        {
+                            "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+                            "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+                            "type": "BADGE"
+                        }
+                    ],
+                    "corporateInvoiceApplicable": true,
+                    "affiliate": "TRENDYOLTR",
+                    "merchantMarkers": [],
+                    "componentCodes": [],
+                    "locationBasedSales": false,
+                    "mpAgreedDTD": true,
+                    "mpEstimatedPackageDTD": true,
+                    "allMpEstimatedPackageDTD": true,
+                    "bulkSalesLimit": 50,
+                    "dropShipmentSupplier": false,
+                    "texApplicable": true
+                },
+                "campaign": {
+                    "id": 61,
+                    "name": "T\u00fcm \u00dcr\u00fcnler",
+                    "stockTypeId": 7,
+                    "startDate": "2010-01-01T17:04:05",
+                    "endDate": "2061-01-01T18:04:05",
+                    "tags": [],
+                    "isMultipleSupplied": false
+                },
+                "promotions": [
+                    {
+                        "id": 11129286,
+                        "name": "200 TL ve \u00dczeri Kargo Bedava (Sat\u0131c\u0131 Kar\u015f\u0131lar)",
+                        "discountType": 7,
+                        "promotionDiscountType": "Cargo",
+                        "promotionEndDate": "2050-01-01T00:00:00",
+                        "promotionRemainingDays": 9408,
+                        "promotionRemainingHours": 9,
+                        "promotionRemainingMinutes": 33,
+                        "isLimitSatisfied": false,
+                        "shortName": "Kargo Bedava",
+                        "mocPerUser": 0,
+                        "isOnlyAz": false
+                    }
+                ],
+                "crossPromotions": [],
+                "variants": [
+                    {
+                        "listingId": "b65d57f7914a156ad1277239d2887bdf",
+                        "fulfilmentType": "mp",
+                        "itemNumber": 1034117510,
+                        "barcode": "2308277161799",
+                        "tyBarcode": "2308277161799",
+                        "quantity": 28,
+                        "price": {
+                            "buyingPrice": 0,
+                            "sellingPrice": 38469,
+                            "originalPrice": 38469,
+                            "manipulatedOriginalPrice": 38469,
+                            "discountedPrice": 38469,
+                            "currency": "TRY",
+                            "profitMargin": 0
+                        },
+                        "freeCargo": true,
+                        "availableForClaim": true,
+                        "discountedPriceInfo": "",
+                        "hasCollectable": false,
+                        "deci": 0,
+                        "rushDeliveryDuration": 0,
+                        "variantAttributes": [],
+                        "scores": [
+                            {
+                                "key": "1",
+                                "value": 999474.7299604221,
+                                "campaignId": 61
+                            },
+                            {
+                                "key": "2",
+                                "value": 999474.7299604221,
+                                "campaignId": 61
+                            }
+                        ],
+                        "maxProductSaleQuantity": 1,
+                        "unitInfo": {},
+                        "supplementaryServices": [],
+                        "groupTagIds": [],
+                        "rushDeliveryMerchantListingExist": false,
+                        "lowerPriceMerchantListingExist": false,
+                        "hasGroupDeal": false,
+                        "fastDeliveryOptions": [],
+                        "overPriced": false,
+                        "sellable": true,
+                        "scheduledDelivery": false,
+                        "isFlash": false,
+                        "isWinner": true,
+                        "isDiscountedListing": false
+                    }
+                ],
+                "stamps": [
+                    {
+                        "type": "TypeA",
+                        "imageUrl": "/indexing-sticker-stamp/moon/a65268f7-f8d3-430f-aa82-f5b6eee7a251.png",
+                        "position": "lower-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1000
+                    }
+                ],
+                "alternativeVariants": [],
+                "maxProductSaleQuantity": 1,
+                "cargoStartDate": "2024-04-01T14:26:44",
+                "cargoRemainingDays": 3,
+                "hasCheapestVariant": false,
+                "agreedDeliveryDays": 2,
+                "buyMorePayLessPromotions": [],
+                "customValues": [
+                    {
+                        "key": "dimensionalWeight",
+                        "value": "0.0"
+                    },
+                    {
+                        "key": "stockCode",
+                        "value": "6471"
+                    },
+                    {
+                        "key": "vatRate",
+                        "value": "20"
+                    },
+                    {
+                        "key": "backUpDeliveryCountries",
+                        "value": "AZ"
+                    },
+                    {
+                        "key": "deliveryCountries",
+                        "value": "AZ"
+                    },
+                    {
+                        "key": "hsCode",
+                        "value": "852800000000"
+                    },
+                    {
+                        "key": "microExport",
+                        "value": "true"
+                    },
+                    {
+                        "key": "origin",
+                        "value": "TR"
+                    }
+                ],
+                "searchableTags": [],
+                "freeCargo": false,
+                "isWinner": false
+            },
+            {
+                "beta": false,
+                "deliveryStartDate": "2024-04-02T14:26:44",
+                "deliveryEndDate": "2024-04-08T14:26:44",
+                "merchant": {
+                    "id": 886771,
+                    "name": "Vathka",
+                    "officialName": "FERAJE MODA TEKST\u0130L SANAY\u0130 \u0130\u00c7 VE DI\u015e T\u0130CARET L\u0130M\u0130TED \u015e\u0130RKET\u0130",
+                    "cityName": "\u0130stanbul",
+                    "centralRegistrationSystemNumber": "0385198686500001",
+                    "registeredEmailAddress": "feraje.moda@hs01.kep.tr",
+                    "taxNumber": "3851986865",
+                    "sellerScore": 9.4,
+                    "sellerScoreColor": "049B24",
+                    "districtName": "Fatih",
+                    "countryName": "T\u00fcrkiye",
+                    "address": "\u0130TFA\u0130YE CAD. NO:51/C ",
+                    "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/886771/136ee3ff-14f9-463d-870a-b5ddcacea536.jpeg",
+                    "stickers": [],
+                    "merchantBadges": [],
+                    "corporateInvoiceApplicable": true,
+                    "affiliate": "TRENDYOLTR",
+                    "merchantMarkers": [],
+                    "componentCodes": [],
+                    "locationBasedSales": false,
+                    "mpAgreedDTD": true,
+                    "mpEstimatedPackageDTD": true,
+                    "allMpEstimatedPackageDTD": true,
+                    "dropShipmentSupplier": false,
+                    "texApplicable": false
+                },
+                "campaign": {
+                    "id": 61,
+                    "name": "T\u00fcm \u00dcr\u00fcnler",
+                    "stockTypeId": 7,
+                    "startDate": "2010-01-01T17:04:05",
+                    "endDate": "2061-01-01T18:04:05",
+                    "tags": [],
+                    "isMultipleSupplied": false
+                },
+                "promotions": [
+                    {
+                        "id": 11666094,
+                        "name": "200 TL ve \u00dczeri Kargo Bedava (Sat\u0131c\u0131 Kar\u015f\u0131lar)",
+                        "discountType": 7,
+                        "promotionDiscountType": "Cargo",
+                        "promotionEndDate": "2050-01-01T00:00:00",
+                        "promotionRemainingDays": 9408,
+                        "promotionRemainingHours": 9,
+                        "promotionRemainingMinutes": 33,
+                        "isLimitSatisfied": false,
+                        "shortName": "Kargo Bedava",
+                        "mocPerUser": 0,
+                        "isOnlyAz": false
+                    }
+                ],
+                "crossPromotions": [],
+                "variants": [
+                    {
+                        "listingId": "31d0d0d09b58f8703eb15f0cbc631a35",
+                        "fulfilmentType": "mp",
+                        "itemNumber": 1034117510,
+                        "barcode": "2308277161799",
+                        "tyBarcode": "2308277161799",
+                        "quantity": 94,
+                        "price": {
+                            "buyingPrice": 0,
+                            "sellingPrice": 32899,
+                            "originalPrice": 32899,
+                            "manipulatedOriginalPrice": 32899,
+                            "discountedPrice": 32899,
+                            "currency": "TRY",
+                            "profitMargin": 0
+                        },
+                        "freeCargo": true,
+                        "availableForClaim": true,
+                        "discountedPriceInfo": "",
+                        "hasCollectable": false,
+                        "deci": 0,
+                        "rushDeliveryDuration": 0,
+                        "variantAttributes": [],
+                        "scores": [
+                            {
+                                "key": "1",
+                                "value": 0.999552167962804,
+                                "campaignId": 61
+                            },
+                            {
+                                "key": "2",
+                                "value": 0.999552167962804,
+                                "campaignId": 61
+                            }
+                        ],
+                        "maxProductSaleQuantity": 5,
+                        "unitInfo": {},
+                        "supplementaryServices": [],
+                        "groupTagIds": [],
+                        "rushDeliveryMerchantListingExist": false,
+                        "lowerPriceMerchantListingExist": false,
+                        "hasGroupDeal": false,
+                        "fastDeliveryOptions": [],
+                        "overPriced": false,
+                        "sellable": true,
+                        "scheduledDelivery": false,
+                        "isFlash": false,
+                        "isWinner": true,
+                        "isDiscountedListing": false
+                    }
+                ],
+                "stamps": [
+                    {
+                        "type": "TypeA",
+                        "imageUrl": "/indexing-sticker-stamp/moon/a65268f7-f8d3-430f-aa82-f5b6eee7a251.png",
+                        "position": "lower-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1000
+                    },
+                    {
+                        "type": "TypeA",
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "priceTagStamp": true
+                    },
+                    {
+                        "type": "TypeB",
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "priceTagStamp": true
+                    }
+                ],
+                "alternativeVariants": [],
+                "maxProductSaleQuantity": 5,
+                "cargoStartDate": "2024-04-04T14:26:44",
+                "cargoRemainingDays": 6,
+                "hasCheapestVariant": true,
+                "agreedDeliveryDays": 2,
+                "buyMorePayLessPromotions": [],
+                "customValues": [
+                    {
+                        "key": "dimensionalWeight",
+                        "value": "0.0"
+                    },
+                    {
+                        "key": "stockCode",
+                        "value": ""
+                    },
+                    {
+                        "key": "vatRate",
+                        "value": "20"
+                    },
+                    {
+                        "key": "deliveryCountries",
+                        "value": "AZ"
+                    }
+                ],
+                "searchableTags": [],
+                "freeCargo": false,
+                "isWinner": false
+            },
+            {
+                "beta": false,
+                "deliveryStartDate": "2024-03-29T14:26:44",
+                "deliveryEndDate": "2024-04-04T14:26:44",
+                "merchant": {
+                    "id": 111285,
+                    "name": "Hediyepaketim",
+                    "officialName": "G\u00dc\u00c7L\u00dc B\u0130LG\u0130 TEKNOLOJ\u0130LER\u0130 DI\u015e T\u0130CARET VE SANAY\u0130 L\u0130M\u0130TED \u015e\u0130RKET\u0130",
+                    "cityName": "\u0130stanbul",
+                    "centralRegistrationSystemNumber": "0412084849800001",
+                    "registeredEmailAddress": "hediyepaketim@hs01.kep.tr",
+                    "taxNumber": "4120848498",
+                    "sellerScore": 8.5,
+                    "sellerScoreColor": "08B449",
+                    "districtName": "Esenler",
+                    "countryName": "T\u00fcrkiye",
+                    "address": "Oru\u00e7 Reis Mh. Tekstilkent B9 Blok no : 42 Esenler Esenler \u0130stanbul",
+                    "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/111285/096389ca-c4c4-48f2-b78b-e755d14f1581.jpeg",
+                    "stickers": [],
+                    "merchantBadges": [],
+                    "corporateInvoiceApplicable": true,
+                    "affiliate": "TRENDYOLTR",
+                    "merchantMarkers": [],
+                    "componentCodes": [],
+                    "locationBasedSales": false,
+                    "mpAgreedDTD": true,
+                    "mpEstimatedPackageDTD": true,
+                    "allMpEstimatedPackageDTD": true,
+                    "dropShipmentSupplier": false,
+                    "texApplicable": true
+                },
+                "campaign": {
+                    "id": 61,
+                    "name": "T\u00fcm \u00dcr\u00fcnler",
+                    "stockTypeId": 7,
+                    "startDate": "2010-01-01T17:04:05",
+                    "endDate": "2061-01-01T18:04:05",
+                    "tags": [],
+                    "isMultipleSupplied": false
+                },
+                "promotions": [
+                    {
+                        "id": 11122380,
+                        "name": "200 TL ve \u00dczeri Kargo Bedava (Sat\u0131c\u0131 Kar\u015f\u0131lar)",
+                        "discountType": 7,
+                        "promotionDiscountType": "Cargo",
+                        "promotionEndDate": "2050-01-01T00:00:00",
+                        "promotionRemainingDays": 9408,
+                        "promotionRemainingHours": 9,
+                        "promotionRemainingMinutes": 33,
+                        "isLimitSatisfied": false,
+                        "shortName": "Kargo Bedava",
+                        "mocPerUser": 0,
+                        "isOnlyAz": false
+                    }
+                ],
+                "crossPromotions": [],
+                "variants": [
+                    {
+                        "listingId": "2501a7683be60aea5f2a03c38d7b012b",
+                        "fulfilmentType": "mp",
+                        "itemNumber": 1034117510,
+                        "barcode": "2308277161799",
+                        "tyBarcode": "2308277161799",
+                        "quantity": 0,
+                        "price": {
+                            "buyingPrice": 0,
+                            "sellingPrice": 32800,
+                            "originalPrice": 32800,
+                            "manipulatedOriginalPrice": 32800,
+                            "discountedPrice": 32800,
+                            "currency": "TRY",
+                            "profitMargin": 0
+                        },
+                        "freeCargo": true,
+                        "availableForClaim": true,
+                        "discountedPriceInfo": "",
+                        "hasCollectable": false,
+                        "deci": 0,
+                        "rushDeliveryDuration": 0,
+                        "variantAttributes": [],
+                        "scores": [
+                            {
+                                "key": "1",
+                                "value": 0,
+                                "campaignId": 61
+                            },
+                            {
+                                "key": "2",
+                                "value": 0,
+                                "campaignId": 61
+                            }
+                        ],
+                        "maxProductSaleQuantity": 1,
+                        "unitInfo": {},
+                        "supplementaryServices": [],
+                        "groupTagIds": [],
+                        "rushDeliveryMerchantListingExist": true,
+                        "rushDeliveryMerchantListing": {
+                            "exist": true,
+                            "priceDiff": 3100
+                        },
+                        "lowerPriceMerchantListingExist": false,
+                        "hasGroupDeal": false,
+                        "fastDeliveryOptions": [],
+                        "overPriced": false,
+                        "sellable": true,
+                        "scheduledDelivery": false,
+                        "isFlash": false,
+                        "isWinner": true,
+                        "isDiscountedListing": false
+                    }
+                ],
+                "stamps": [
+                    {
+                        "type": "TypeA",
+                        "imageUrl": "/indexing-sticker-stamp/moon/a65268f7-f8d3-430f-aa82-f5b6eee7a251.png",
+                        "position": "lower-left",
+                        "aspectRatio": 0.25,
+                        "priority": 1000
+                    },
+                    {
+                        "type": "TypeA",
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "priceTagStamp": true
+                    },
+                    {
+                        "type": "TypeB",
+                        "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                        "position": "upper-left",
+                        "aspectRatio": 0.25,
+                        "priority": 600,
+                        "priceTagStamp": true
+                    }
+                ],
+                "alternativeVariants": [],
+                "maxProductSaleQuantity": 1,
+                "cargoStartDate": "2024-04-01T14:26:44",
+                "cargoRemainingDays": 3,
+                "allVariants": [
+                    {
+                        "itemNumber": 1034117510,
+                        "value": "",
+                        "inStock": false
+                    }
+                ],
+                "otherMerchantVariants": [
+                    {
+                        "itemNumber": 1034117510,
+                        "value": "",
+                        "inStock": true
+                    }
+                ],
+                "hasCheapestVariant": false,
+                "agreedDeliveryDays": 2,
+                "buyMorePayLessPromotions": [],
+                "customValues": [
+                    {
+                        "key": "deliveryCountries",
+                        "value": "AZ"
+                    },
+                    {
+                        "key": "stockCode",
+                        "value": "hp5654t6y54y6t54y6547y67"
+                    },
+                    {
+                        "key": "vatRate",
+                        "value": "20"
+                    },
+                    {
+                        "key": "giftBox",
+                        "value": "false"
+                    },
+                    {
+                        "key": "giftText",
+                        "value": "false"
+                    }
+                ],
+                "searchableTags": [],
+                "freeCargo": false,
+                "isWinner": true
+            }
+        ],
+        "isMarketplace": true,
+        "productStamps": [
+            {
+                "type": "TypeA",
+                "imageUrl": "/indexing-sticker-stamp/moon/a65268f7-f8d3-430f-aa82-f5b6eee7a251.png",
+                "position": "lower-left",
+                "aspectRatio": 0.25,
+                "priority": 1000
+            },
+            {
+                "type": "TypeA",
+                "imageUrl": "indexing-sticker-stamp/moon/75439ab0-63fd-470d-8c1a-8d2fb65a3a35.png",
+                "position": "upper-left",
+                "aspectRatio": 0.25,
+                "priority": 600,
+                "priceTagStamp": true
+            }
+        ],
+        "hasHtmlContent": false,
+        "favoriteCount": 931,
+        "uxLayout": "Electronics - devices",
+        "isDigitalGood": false,
+        "isRunningOut": false,
+        "scheduledDelivery": false,
+        "ratingScore": {
+            "averageRating": 4.65,
+            "totalRatingCount": 31,
+            "totalCommentCount": 20
+        },
+        "showStarredAttributes": false,
+        "reviewsUrl": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656/yorumlar",
+        "questionsUrl": "/meta/quest-3-512-gb-uyumlu-sanal-gerceklik-gozlugu-p-780569656/saticiya-sor?merchantId=111285",
+        "sellerQuestionEnabled": true,
+        "sizeChartUrl": "",
+        "sizeExpectationAvailable": false,
+        "crossPromotionAward": {
+            "awardType": null,
+            "awardValue": null,
+            "contentId": 0,
+            "merchantId": 0
+        },
+        "rushDeliveryMerchantListingExist": true,
+        "lowerPriceMerchantListingExist": false,
+        "showValidFlashSales": false,
+        "showExpiredFlashSales": false,
+        "walletRebate": {
+            "minPrice": 300,
+            "maxPrice": 10000,
+            "rebateRatio": 0.01
+        },
+        "isArtWork": false,
+        "buyMorePayLessPromotions": [],
+        "filterableLabels": [
+            {
+                "id": "c6ef960b-f042-4162-8d24-370b59d01137",
+                "name": "taksiterteleme",
+                "displayName": "taksiterteleme",
+                "visibleAgg": false
+            },
+            {
+                "id": "5041c85f-52b2-4ae4-a36f-9081bb2a6ef2",
+                "name": "taksit-erteleme-test",
+                "displayName": "Taksit Erteleme Test",
+                "visibleAgg": false
+            },
+            {
+                "id": "d78b44a5-d15d-4492-b95c-d9427dbb7875",
+                "name": "taksit-erteleme-test-v2",
+                "displayName": "taksit erteleme test v2",
+                "visibleAgg": false
+            },
+            {
+                "id": "cf226aaf-039f-43b2-9930-855245db5b3b",
+                "name": "super-mart-tuketici-elektronigi-",
+                "displayName": "S\u00fcper Mart T\u00fcketici Elektroni\u011fi ",
+                "visibleAgg": false
+            },
+            {
+                "id": "b4e57e15-ceab-4adb-90f8-2bc883ea5671",
+                "name": "giyilebilir-elektronik-urunler",
+                "displayName": "Giyilebilir Elektronik \u00dcr\u00fcnler",
+                "visibleAgg": false
+            }
+        ],
+        "customValues": [
+            {
+                "key": "deliveryCountries",
+                "value": "AZ"
+            },
+            {
+                "key": "stockCode",
+                "value": "hp5654t6y54y6t54y6547y67"
+            },
+            {
+                "key": "vatRate",
+                "value": "20"
+            },
+            {
+                "key": "giftBox",
+                "value": "false"
+            },
+            {
+                "key": "giftText",
+                "value": "false"
+            }
+        ]
+    },
+    "htmlContent": null,
+    "recoAbDecider": "",
+    "user": {
+        "loggedIn": false,
+        "isBuyer": false,
+        "isElite": false
+    },
+    "configuration": {
+        "htmlContentCssUrl": "https://cdn.dsmcdn.com/mweb/production/main.be4f3b6e62dd77fccc78.css",
+        "htmlContentJsUrl": "https://cdn.dsmcdn.com/mweb/production/main.557ead4436e1bc2fada3.js",
+        "storefrontId": 1,
+        "channelId": "1",
+        "showPaymentMethodsAndShippings": false,
+        "showDiscountInformation": false,
+        "isDynamicRender": false,
+        "widgets": [
+            {
+                "name": "millaCampaignBanner",
+                "order": 1
+            },
+            {
+                "name": "corporateInvoice",
+                "order": 2
+            },
+            {
+                "name": "pudoBanner",
+                "order": 3
+            },
+            {
+                "name": "campaigns",
+                "order": 4
+            },
+            {
+                "name": "seller",
+                "order": 5
+            },
+            {
+                "name": "otherSellers",
+                "order": 6
+            },
+            {
+                "name": "featuredComment",
+                "order": 7
+            },
+            {
+                "name": "cta",
+                "order": 8
+            },
+            {
+                "name": "otherCategories",
+                "order": 9
+            },
+            {
+                "name": "discover",
+                "order": 10
+            }
+        ],
+        "maxWidgetCount": 3,
+        "callToActions": [
+            {
+                "name": "CTA_PRODUCT_REVIEWS",
+                "selector": ".pr-rnr-w"
+            },
+            {
+                "name": "CTA_PRODUCT_DESC",
+                "selector": ".product-desc"
+            },
+            {
+                "name": "CTA_SIMILAR_PRODUCTS",
+                "selector": ".productDetail-Similar"
+            },
+            {
+                "name": "CTA_CROSS_PRODUCTS",
+                "selector": ".productDetail-Cross"
+            }
+        ],
+        "discovers": [
+            {
+                "name": "Sen de Al!",
+                "link": "/sr/?fl=encoksatanurunler",
+                "image": "https://cdn.dsmcdn.com/ty126/web-pdp/cok_satanlar.png"
+            },
+            {
+                "name": "En \u00c7ok Sepete Eklenenler",
+                "link": "/sr?fl=encoksepeteeklenenurunler",
+                "image": "https://cdn.dsmcdn.com/ty127/web-pdp/en_cok_sepete_eklenenler.png"
+            },
+            {
+                "name": "En Be\u011fenilenler",
+                "link": "/sr?fl=encokfavorilenenurunler",
+                "image": "https://cdn.dsmcdn.com/ty127/web-pdp/en_begenilenler.png"
+            }
+        ],
+        "discoverWidgetTitle": "Trendyol'da Ke\u015ffet!",
+        "stickNavigationItemsOrder": [
+            "SIMILAR_PRODUCTS",
+            "CROSS_PRODUCTS",
+            "OTHER_MERCHANTS",
+            "PRODUCT_REVIEWS",
+            "PRODUCT_DETAILS"
+        ],
+        "stickNavigationItems": {
+            "PRODUCT_DETAILS": {
+                "translateKey": "PRODUCT_DETAILS",
+                "selector": ".details-section[data-drroot=\"product-info\"] > .title"
+            },
+            "PRODUCT_REVIEWS": {
+                "translateKey": "PRODUCT_REVIEWS",
+                "selector": "article[data-drroot=\"product-reviews\"]"
+            },
+            "SIMILAR_PRODUCTS": {
+                "translateKey": "CTA_SIMILAR_PRODUCTS",
+                "selector": "aside[data-drroot=\"similar-products\"]"
+            },
+            "OTHER_MERCHANTS": {
+                "translateKey": "OTHER_MERCHANTS",
+                "selector": "#other-merchants-dr"
+            },
+            "CROSS_PRODUCTS": {
+                "translateKey": "CROSS_PRODUCTS_TITLE",
+                "selector": "aside[data-drroot=\"cross-recommendations\"] > .title"
+            },
+            "REPORT_CONTENT": {
+                "translateKey": "PRODUCT_DETAIL_REPORT_ABUSE_TEXT",
+                "selector": ".report-container .report-content"
+            },
+            "PRODUCT_DESCRIPTION": {
+                "translateKey": "PRODUCT_DESCRIPTION",
+                "selector": "#urun-aciklamasi > .title"
+            },
+            "SLP": {
+                "translateKey": "YOU_MAY_ALSO_INTERESTED",
+                "selector": "div[data-drroot=\"slp-reco\"] > h3"
+            },
+            "COLLECTION_RECOMMENDATION": {
+                "translateKey": "COLLECTION_RECOMMENDATION_TITLE",
+                "selector": "#collection-recommendation > .collection-recommendation-container > .title"
+            },
+            "RELATED_CATEGORIES": {
+                "translateKey": "RELATED_CATEGORIES",
+                "selector": "aside[data-drroot=\"related-categories\"]"
+            }
+        },
+        "isIgnoredVasBoutiqueForEmergency": false,
+        "isIgnoredDigitalGoodsDeliveryTextContentForEmergency": false,
+        "digitalGoodsDeliveryText": "1 saat i\u00e7inde E-mail olarak g\u00f6nderilecektir.",
+        "isInternational": false,
+        "culture": "tr-TR",
+        "cdnUrl": "https://cdn.dsmcdn.com",
+        "claimInfoText": "15 g\u00fcn i\u00e7inde \u00fccretsiz iade.",
+        "questionsAndAnswersEnabled": true,
+        "ratingReviewEnabled": true,
+        "otherMerchantsEnabled": true,
+        "ratingReviewLikesEnabled": true,
+        "newRatingSummaryEnabled": true,
+        "redirectReviewsPageEnabled": true,
+        "languageCode": "tr",
+        "sizeCharts": [
+            [
+                "G\u00fcne\u015f G\u00f6zl\u00fc\u011f\u00fc",
+                "https://img-trendyol.mncdn.com/assets/banner/2018/webBanners/bedenTablosu/gozluk_beden_tablosu.jpg",
+                "G\u00f6zl\u00fck Beden K\u0131lavuzu"
+            ],
+            [
+                "\u0130maj G\u00f6zl\u00fckleri",
+                "https://img-trendyol.mncdn.com/assets/banner/2018/webBanners/bedenTablosu/gozluk_beden_tablosu.jpg",
+                "G\u00f6zl\u00fck Beden K\u0131lavuzu"
+            ],
+            [
+                "Saat",
+                "https://img-trendyol.mncdn.com/assets/banner/2018/webBanners/bedenTablosu/saatler_beden_tablosu.jpg",
+                "Saat Beden K\u0131lavuzu"
+            ]
+        ],
+        "enhancedEcommerceEnabled": true,
+        "addReviewEnabled": false,
+        "reviewReportAbuseEnabled": true,
+        "showImageOnProductCommentsEnabled": true,
+        "crossProductsTitle": "Bu \u00dcr\u00fcn\u00fc Alanlar Bunlar\u0131 da Ald\u0131",
+        "crossProductsEnabled": true,
+        "recommendationEnabled": true,
+        "productGroupEnabled": true,
+        "htmlContentEnabled": true,
+        "productAttributesEnabled": true,
+        "publishCriteriaEnabled": true,
+        "sellerAreaEnabled": true,
+        "sellerPointLowLimit": 8,
+        "sizeChartUrl": "https://cdn.dsmcdn.com/Assets/frontend-web-sizechart/tr1.html",
+        "productDetailMetaDescription": "Trendyol.com sayesinde {0} \u00fcr\u00fcn\u00fcne \u00e7ok \u00f6zel indirimlerle sahip olabilecek ve al\u0131\u015fveri\u015f al\u0131\u015fkanl\u0131klar\u0131n\u0131z\u0131 de\u011fi\u015ftireceksiniz.",
+        "siteAddress": "https://www.trendyol.com",
+        "notifyMeEnabled": true,
+        "notifyMeCount": 10,
+        "recommendationAbTestValue": "A_0-0,B_0-0,C_1-100",
+        "lastProductCountAbTestValue": "A_0-0,B_0-100",
+        "recoCardAbTestValue": "A_0-100,B_0-0",
+        "abTestingCookieName": "WebAbTesting",
+        "clientSideReviewsEnabled": false,
+        "clientSideHtmlContentEnabled": true,
+        "alternativeVariantsEnabled": true,
+        "relatedCategoryEnabled": true,
+        "relatedCategoryAbTestVariant": "C",
+        "relatedCategoryAbTestValue": "A_0-0,B_0-0,C_1-100,D_0-0,E_0-0",
+        "relatedCategoryTitleTooltipThreshold": 43,
+        "relatedCategoryCountLimit": 5,
+        "relatedCategoryImageVirtualBrandIds": [
+            33,
+            102347,
+            39,
+            141,
+            53,
+            981,
+            254,
+            204,
+            466,
+            155,
+            296,
+            586,
+            37,
+            131,
+            971,
+            178,
+            333,
+            129,
+            136,
+            49,
+            328,
+            179,
+            38,
+            101446,
+            568,
+            138,
+            859,
+            289,
+            754,
+            43,
+            128,
+            44,
+            618,
+            569,
+            535,
+            193,
+            660,
+            160,
+            303,
+            347,
+            1265,
+            658,
+            103029,
+            104699,
+            300,
+            103500,
+            103124,
+            101476,
+            103187,
+            104189,
+            208
+        ],
+        "relatedCategoryVirtualBrandImagePath": "assets/banner/2018/mobileCDN/brandFollow",
+        "defaultBrandCategoryCombinationImageUrl": "Assets/related-category-default-image.png",
+        "legalRequirementCacheDuration": 0,
+        "recoCrossCustomStampsEnabled": true,
+        "canShowSizeChartButton": true,
+        "productDetailImprovedBreadcrumbEnabled": true,
+        "sellerShippingEnabled": false,
+        "productDetailReportAbuseEnabled": true,
+        "productDetailReportAbuseItems": "[{\"id\": 0,\"value\": \"\u00dcr\u00fcn\u00fcn fiyat\u0131 hatal\u0131\"},{\"id\": 1,\"value\": \"G\u00f6rsel hatal\u0131\"},{\"id\": 2,\"value\": \"\u00dcr\u00fcn\u00fcn ismi eksik/hatal\u0131\"},{\"id\": 3,\"value\": \"\u00dcr\u00fcn \u00f6zellikleri eksik ya da hatal\u0131\"},{\"id\": 4,\"value\": \"\u00dcr\u00fcn\u00fcn kategorisi hatal\u0131\"}]",
+        "scheduledDeliveryWarningMessage": "Se\u00e7ti\u011finiz adrese \u015fu anda randevulu teslimat hizmeti bulunmamaktad\u0131r. \u00dcr\u00fcnleriniz kargo ile g\u00f6nderilecektir.",
+        "installmentStampAmountText": "9 TAKS\u0130T",
+        "starredAttributesLimit": 4,
+        "sellerStoreLinkEnabled": true,
+        "featuredCardFavButtonEnabled": true,
+        "openReviewModalEnabled": false,
+        "currencySymbol": "TL",
+        "newSearchEnabled": true,
+        "stampType": "TypeA",
+        "memberGwUrl": "https://public-sdc.trendyol.com/discovery-web-membergw-service",
+        "wishListUrl": "https://public-mdc.trendyol.com/discovery-web-websfxwishlist-santral",
+        "getNotifyMePreferencesFromMemberGw": true,
+        "publicProductGwUrl": "https://public.trendyol.com/discovery-web-productgw-service",
+        "publicSdcProductGwUrl": "https://public-sdc.trendyol.com/discovery-web-productgw-service",
+        "publicMdcProductGwUrl": "https://public-mdc.trendyol.com/discovery-web-productgw-service",
+        "publicVasSfxApiUrl": "https://public.trendyol.com/discovery-web-websfxcheckoutvasservice-santral",
+        "publicMdcRecoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+        "productRecommendationVersion": 2,
+        "publicSdcCheckoutGwUrl": "https://public-sdc.trendyol.com/discovery-web-checkout-service",
+        "publicMdcCheckoutGwUrl": "https://public-mdc.trendyol.com/discovery-web-checkout-service",
+        "addToBasketOnCheckoutgwEnabled": false,
+        "collectionRecommendationEnabled": true,
+        "showCargoRemainingDays": true,
+        "showLinearAlternativeVariants": false,
+        "sellerStoreUrl": "https://public-sdc.trendyol.com/discovery-sellerstore-webgw-service",
+        "minSellerFollowerCount": 1000,
+        "questionCountToShow": 3,
+        "collectableCouponsEnabled": true,
+        "publicSdcCouponGwUrl": "https://public-mdc.trendyol.com/discovery-web-coupongw-service",
+        "publicMdcCouponGwUrl": "https://public-mdc.trendyol.com/discovery-web-coupongw-service",
+        "vasServiceEnabled": true,
+        "showCrossPromotions": true,
+        "showWalletRebate": false,
+        "showDigitalGoodsRebate": false,
+        "pudoBannerMoreInformationText": "Sipari\u015findeki t\u00fcm \u00fcr\u00fcnlerin Gel-Al Noktas\u0131ndan teslimata uygun olmas\u0131 gerekmektedir.",
+        "showFlashSales": true,
+        "flashSalesTimeSlots": [
+            12,
+            15,
+            18,
+            21,
+            24
+        ],
+        "publicMdcSocialGwUrl": "https://public-mdc.trendyol.com/discovery-web-socialgw-service",
+        "publicSdcSocialGwUrl": "https://public-sdc.trendyol.com/discovery-web-socialgw-service",
+        "minInstallmentAmountEnabled": true,
+        "minInstallmentAmountMinPrice": 1000,
+        "minInstallmentAmountMinInstallment": 3,
+        "stickersEnabled": true,
+        "promotionImageEnabled": true,
+        "addToCollectionEnabled": true,
+        "productGroupSantralUrl": "https://public.trendyol.com/discovery-web-websfxproductgroups-santral",
+        "promotionImageSantralUrl": "https://public.trendyol.com/discovery-web-websfxpromotionproducts-santral",
+        "publicWebSfxProductRecommendationServiceUrl": "https://public-mdc.trendyol.com/discovery-web-websfxproductrecommendation-santral",
+        "componentReadApiUrl": "http://discovery-pdp-component-read-service.external",
+        "publicWebSfxCrossPromotionServiceUrl": "https://public.trendyol.com/discovery-pdp-websfxcrosspromotions-santral",
+        "publicMdcContractServiceUrl": "https://public-mdc.trendyol.com/discovery-web-websfxcontract-santral",
+        "thresholdDayForLongTermDelivery": 15,
+        "infoForLongTermDelivery": "\u00dcr\u00fcn tedarik / \u00fcretim s\u00fcresinin ard\u0131ndan kargolanacakt\u0131r.",
+        "infoForLongTermDeliveryBiggerThanMonth": "Bu \u00fcr\u00fcn, sipari\u015finize istinaden \u00fcretilmeye ba\u015flanacak olup \u00fcretim s\u00fcresinin ard\u0131ndan kargoya verilecektir.",
+        "priceBoxV2Enable": true,
+        "buyMorePayLessPromotionsText": "\u00c7ok Al, Az \u00d6de!",
+        "buyMorePayLessPromotionsEnabled": true,
+        "corporateInvoiceEnabled": true,
+        "tomorrowShippingEnabled": true,
+        "featuredPriceTooltipEnabled": true,
+        "pdpVideoEnabled": true,
+        "mediaCenterSantralUrl": "https://public-sdc.trendyol.com/discovery-web-websfxmediacenter-santral",
+        "pdpReportReasons": "[ { \"id\": \"COPYRIGHT\", \"value\": \"Telif hakk\u0131 ihlalli i\u00e7erik\" }, { \"id\": \"PERSONAL_INFORMATION\", \"value\": \"Ki\u015fisel bilgi/y\u00f6nlendirme\" }, { \"id\": \"NSFW\", \"value\": \"+18 i\u00e7erik\" }, { \"id\": \"FORBIDDEN_WORDS\", \"value\": \"Argo& yasakl\u0131 kelime\" }, { \"id\": \"POLITICAL_SPEECH\", \"value\": \"Politik/ayr\u0131mc\u0131 s\u00f6ylem\" }, { \"id\": \"THIRD_PARTY_MENTION\", \"value\": \"\u00dc\u00e7\u00fcnc\u00fc \u015fah\u0131s/kurum bahsi\"}, {\"id\": \"ABUSIVE_SPEECH\", \"value\": \"K\u00f6t\u00fcleyici s\u00f6ylem\" }, {\"id\": \"INACCURATE_INFORMATION\", \"value\": \"Hatal\u0131 bilgi\" }, {\"id\": \"TECHNICAL_ISSUE\", \"value\": \"Teknik sorun\"}, {\"id\": \"INAPPROPRIATE_CONTENT\", \"value\": \"\u0130\u00e7erik-\u00fcr\u00fcn uyumsuzlu\u011fu\" }]",
+        "navigationGwUrl": "https://public-mdc.trendyol.com/discovery-web-navigation-service",
+        "basketSuggestionGwUrl": "https://public-mdc.trendyol.com/discovery-web-websfxbasketsuggestion-santral",
+        "brandBasedCustomizationEnabled": true,
+        "customizedBrandIds": [
+            "102989",
+            "101470"
+        ],
+        "lastProductNumber": 3,
+        "locationBasedSalesEnabled": true,
+        "sellerBaseSantralUrl": "https://public.trendyol.com/discovery-web-websfxsellerbase-santral",
+        "basketRecoWidgetsByUxLayout": {
+            "Electronics - devices": {
+                "A": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ],
+                "B": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "Electronics - longtail": {
+                "A": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ],
+                "B": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "cosmetics": {
+                "A": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ],
+                "B": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "Hard Furniture": {
+                "A": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ],
+                "B": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "Mobilya": {
+                "A": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ],
+                "B": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "General Merchandise": {
+                "A": [
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ],
+                "B": [
+                    "MerchantBased",
+                    "Vas",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "FMCG": {
+                "A": [],
+                "B": [
+                    "MerchantBased"
+                ]
+            },
+            "Fashion": {
+                "A": [],
+                "B": [
+                    "CompleteCombine",
+                    "Cross",
+                    "Similar",
+                    "Basket"
+                ]
+            },
+            "Ev": {
+                "A": [],
+                "B": [
+                    "MerchantBased"
+                ]
+            }
+        },
+        "collectionRecommendationServiceUrl": "https://public-mdc.trendyol.com/discovery-pdp-websfxcollectionrecommendation-santral",
+        "priceHistorySantralUrl": "https://public.trendyol.com/discovery-web-websfxpricehistory-santral",
+        "priceHistoryFeatureEnabled": true,
+        "azDeliveryDateFeatureEnabled": true,
+        "hideInitialRatingValuesFromPdpEnabled": true,
+        "ignoredCorporateUXLayouts": [
+            "Fashion"
+        ],
+        "corporateSalesUserSegmentId": "410750067",
+        "corporateSalesUserSegmentTag": "1",
+        "feedbackExposedSFXFragmentEnabled": false,
+        "slpRecoExposedSFXFragmentEnabled": false,
+        "relatedCategoriesExposedSFXFragmentEnabled": false,
+        "emergencyVasBoutiqueInformationText": "\u00d6deme ekran\u0131nda kendi adresinizi se\u00e7ebilirsiniz. \u00dcr\u00fcn se\u00e7ti\u011finiz adrese de\u011fil, afet b\u00f6lgesine ula\u015ft\u0131r\u0131lacakt\u0131r.",
+        "azSelectedCookie": false,
+        "azPromotionText": "S\u0259b\u0259td\u0259 t\u0259tbiq olunacaq!",
+        "azEligibleCookie": false,
+        "azDeliveryEnabled": true,
+        "trendyolMillaTopBannerUrl": "https://cdn.dsmcdn.com/web/production/milla-desktop-banner-for-core.png",
+        "trendyolMillaTopBannerEnabled": false,
+        "millaBannerEnabledBrandIds": [
+            1093959,
+            1262112,
+            15508,
+            1966958,
+            40
+        ],
+        "availableMillaBannerMerchantIds": [
+            968
+        ],
+        "trendyolMillaUrl": "https://www.trendyol-milla.com/",
+        "ipAddress": "193.255.125.134",
+        "token": "",
+        "checkoutVasSantralUrl": "https://public-sdc.trendyol.com/discovery-web-websfxcheckoutvas-santral",
+        "stockWarningMinLimit": 3,
+        "stockWarningMaxLimit": 10,
+        "scrollToSimilar": false,
+        "excludedVariantKeyIds": [
+            1115,
+            1116,
+            1148,
+            1149
+        ],
+        "genericRecoSliderEnabled": false,
+        "merchantBasedRecoSliderEnabled": false,
+        "publicWebSfxAttributeRecommendationServiceUrl": "https://public.trendyol.com/discovery-web-websfxprebasketgenericreco-santral",
+        "publicWebSfxBasketRecoServiceUrl": "https://public.trendyol.com/discovery-web-websfxprebasketmerchantbasedreco-santral",
+        "isCorporateUser": false,
+        "isAzNewFlowEnabled": true,
+        "inventoryCenterSantralUrl": "https://public-sdc.trendyol.com/discovery-web-websfxinventorycenter-santral",
+        "azPriceTooltipText": "M\u0259hsul d\u0259y\u0259rinin manat qar\u015f\u0131l\u0131\u011f\u0131 TCMB-d\u0259n q\u0259bul edil\u0259n g\u00fcnl\u00fck d\u0259y\u0259rl\u0259r\u0259 g\u00f6r\u0259 hesablan\u0131r v\u0259 m\u0259lumat m\u0259qs\u0259dli olaraq t\u0259qdim edilir. Valyuta m\u0259z\u0259nn\u0259sind\u0259 g\u00fcn i\u00e7ind\u0259 ba\u015f ver\u0259n d\u0259yi\u015fiklikl\u0259r d\u0259rhal ekranlarda \u0259ks olunmaya bil\u0259r.",
+        "trendyolMillaBannerUrl": "https://cdn.dsmcdn.com/web/production/milla-desktop-banner-v4.png",
+        "sfxProductCombinationSantralUrl": "https://public.trendyol.com/discovery-pdp-websfxproductcombination-santral",
+        "complementaryProductsEnabled": true,
+        "isTrendyolMilla": false,
+        "isMillaFirstOrder": false,
+        "isMillaCampaignBannerEnabled": true,
+        "productRecommendationPage": 0,
+        "productRecommendationSize": 8,
+        "energyClassLabelEnabled": true,
+        "energyClassLabelTagId": 134,
+        "energyClassLabelScopeId": 794,
+        "productNotifyFormId": 1148,
+        "energyClassLabelImgId": 1149,
+        "energyClassLabelIds": {
+            "A_G": "1199781",
+            "A_TRIPLE_PLUS_D": "297332",
+            "A_PLUS_F": "297333",
+            "A_DOUBLE_PLUS_E": "297334",
+            "A_TRIPLE_PLUS": "1770",
+            "A_DOUBLE_PLUS": "1769",
+            "A_PLUS": "1768",
+            "A": "1771",
+            "B": "1767",
+            "C": "1772",
+            "D": "22193",
+            "E": "22194",
+            "F": "22195",
+            "G": "318772"
+        },
+        "energyClassLabelCdnUrls": {
+            "A_G": {
+                "A": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_A.png",
+                "B": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_B.png",
+                "C": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_C.png",
+                "D": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_D.png",
+                "E": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_E.png",
+                "F": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_F.png",
+                "G": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_G.png"
+            },
+            "A_TRIPLE_PLUS_D": {
+                "A_TRIPLE_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_A+++.png",
+                "A_DOUBLE_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_A++.png",
+                "A_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_A+.png",
+                "A": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_A.png",
+                "B": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_B.png",
+                "C": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_C.png",
+                "D": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_D.png"
+            },
+            "A_PLUS_F": {
+                "A_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_A+.png",
+                "A": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_A.png",
+                "B": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_B.png",
+                "C": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_C.png",
+                "D": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_D.png",
+                "E": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_E.png",
+                "F": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_F.png"
+            },
+            "A_DOUBLE_PLUS_E": {
+                "A_DOUBLE_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_A++.png",
+                "A_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_A+.png",
+                "A": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_A.png",
+                "B": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_B.png",
+                "C": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_C.png",
+                "D": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_D.png",
+                "E": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_E.png"
+            }
+        },
+        "categoryTopRankingNavEnabled": false,
+        "deliveryDateSantralUrl": "https://public.trendyol.com/discovery-pdp-websfxproductdeliverydate-santral"
+    }
+}

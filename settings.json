@@ -1,0 +1,73 @@
+{
+    "INFO": {
+        "all": true,
+        "Main": {
+            "all": true,
+            "MainInit": true,
+            "MainStarted": true,
+            "SelectedResearchSpecial": true,
+            "SelectedMining": true
+        },
+        "Miner": {
+            "all": true,
+            "CreatedMiner": true,
+            "MinerDidSetID": true,
+            "MinerInitializing": true,
+            "MinerStarted": true,
+            "MinerCheckedTables": true,
+            "TrendyolScanningPage": true,
+            "GetRandomURL": false
+        },
+        "Browser": {
+            "all": true,
+            "BrowserOpen": true,
+            "BrowserRequest": false,
+            "BrowserRequestSuccesfully": false,
+            "BrowserGetContent": false,
+            "BrowserWriteContent": false
+        },
+        "Trendyol": {
+            "all": true,
+            "TrendyolGetAllUrl": false,
+            "TrendyolFoundHref": false
+        },
+        "Database": {
+            "all": true,
+            "AddedNotVisitedLinks": false,
+            "AddedVisitedLink": false,
+            "UrlCounted": true
+        }
+    },
+    "DEBUG": {
+        "all": false,
+        "Database": {
+            "all": true,
+            "DatabaseConnecting": true,
+            "DatabaseConnected": true,
+            "DatabaseExecuteUsed": true,
+            "DatabaseExecuteResultCount": true,
+            "DatabaseDisconnected": true,
+            "DatabaseExecuteManyUsed": true,
+            "DatabaseExecuteManyResultCount": true,
+            "AddNotVisitedLinksIntegrityError": true
+        }
+    },
+    "ERROR": {
+        "all": true,
+        "Database": {
+            "all": true,
+            "DatabaseExecuteOperationalError": true,
+            "DatabaseExecuteIntegrityError": false,
+            "AddingSomeVisitedLink": true,
+            "DatabaseProductError": true,
+            "DatabaseExecuteError": true,
+            "DatabaseExecuteProgrammingError": true,
+            "AddNotVisitedLinksIntegrityError": true
+        },
+        "Browser": {
+            "all": true,
+            "BrowserRequestFailed": true,
+            "BrowserGetDataJsonError": true
+        }
+    }
+}
