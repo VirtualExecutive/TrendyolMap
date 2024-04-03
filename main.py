@@ -34,10 +34,10 @@ class Main():
 
     def Start(self):
         self.Log.Write("INFO","Main","MainStarted","Program başlatıldı.")
-        print("Seçeneklerden birini seçiniz:")
-        print("0 | Exit")
-        print("1 | Mining yap")
-        print("2 | Araştırma yap")
+        # print("Seçeneklerden birini seçiniz:")
+        # print("0 | Exit")
+        # print("1 | Mining yap")
+        # print("2 | Araştırma yap")
 
         # u_input= str(input(">>| ")).strip()
         u_input="1"

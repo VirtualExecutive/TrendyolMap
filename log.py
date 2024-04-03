@@ -23,7 +23,9 @@ class Log():
         self.AddToSettings(*node[:3])
         if self.GetPermitFromSettings(*node[:3]):
             with self.OpenFile("a") as f:
-                f.write(f'{self.GetCurrentDate("%Y.%m.%d %H:%M:%S.%f")} | {" | ".join(node)}\n')
+                message=f'{self.GetCurrentDate("%Y.%m.%d %H:%M:%S.%f")} | {" | ".join(node)}\n'
+                f.write(message)
+                print(message,end="")
 
     def OpenFile(self, mode,encoding="utf-8"):
         return open(os.path.join(self.logsFolder,self.filename),mode,encoding=encoding)
