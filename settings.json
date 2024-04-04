@@ -62,7 +62,8 @@
             "DatabaseProductError": true,
             "DatabaseExecuteError": true,
             "DatabaseExecuteProgrammingError": true,
-            "AddNotVisitedLinksIntegrityError": true
+            "AddNotVisitedLinksIntegrityError": true,
+            "DatabaseConnectError": true
         },
         "Browser": {
             "all": true,

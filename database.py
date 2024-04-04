@@ -69,7 +69,13 @@ class Database():
                 self.Log.Write("ERROR", "Database", "DatabaseExecuteFetchError", self.minerName, "Sorgu yürütülürken hata oluştu. Fetch hatası verdi.")
 
             except mysql.connector.errors.ProgrammingError as e:
-                self.Log.Write("ERROR", "Database", "DatabaseExecuteProgrammingError", self.minerName, "Sorgu yürütülürken hata oluştu. Programming hatası verdi.\n"+ traceback.format_exc())
+                self.Log.Write("ERROR", "Database", "DatabaseExecuteProgrammingError", self.minerName, "Sorgu yürütülürken hata oluştu. Programming hatası verdi.\n"+ traceback.format_exc())                try:
+                    self.cursor = self.connection.cursor()
+                except:
+                    if not self.connection.is_connected():
+                        time.sleep(1)
+                        self.Disconnect()
+                        self.Connect()
 
             except mysql.connector.errors.OperationalError as e:
                 self.Log.Write("ERROR", "Database", "DatabaseExecuteOperationalError", self.minerName, "Sorgu yürütülürken hata oluştu. ","\nERROR: " + traceback.format_exc())
