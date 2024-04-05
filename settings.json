@@ -29,7 +29,8 @@
         "Trendyol": {
             "all": true,
             "TrendyolGetAllUrl": false,
-            "TrendyolFoundHref": false
+            "TrendyolFoundHref": false,
+            "TrendyolFoundSrc": true
         },
         "Database": {
             "all": true,
