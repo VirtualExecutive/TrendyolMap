@@ -383,11 +383,12 @@ class Urls(Miner):
 
     def isHaveAnyUrl(self):
         self.Database.Connect()
-        result = self.Database.Execute("SELECT COUNT(*) FROM urls;")
+        resultUrls = self.Database.Execute("SELECT COUNT(*) FROM urls;")[0][0]
+        resultVurls = self.Database.Execute("SELECT COUNT(*) FROM vurls;")[0][0]
         # self.Database.Disconnect()
 
-        self.Log.Write("INFO","Database","UrlCounted",self.minerName,"Kalan url sayısı: "+str(result[0][0]))
-        return result[0][0]
+        self.Log.Write("INFO","Database","UrlCounted",self.minerName,"\nKalan url sayısı: "+str(resultUrls)+" | Tamamlanan url sayısı: "+str(resultVurls)+"\n"+str((resultVurls/(resultUrls+resultVurls))*100))
+        return resultUrls
 
 
 class Magaza(Miner):
