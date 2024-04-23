@@ -1,0 +1,21 @@
+{
+    "DEBUG": {
+        "all": true,
+        "Database": {
+            "all": true,
+            "DatabaseConnecting": true,
+            "DatabaseConnected": true,
+            "DatabaseExecuteUsed": true,
+            "DatabaseExecuteResultCount": true,
+            "DatabaseDisconnected": true
+        }
+    },
+    "ERROR": {
+        "all": true,
+        "Database": {
+            "all": true,
+            "DatabaseExecuteProgrammingError": true,
+            "MapDataFetchError": true
+        }
+    }
+}
