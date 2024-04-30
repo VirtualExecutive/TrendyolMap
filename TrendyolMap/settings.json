@@ -15,7 +15,9 @@
         "Database": {
             "all": true,
             "DatabaseExecuteProgrammingError": true,
-            "MapDataFetchError": true
+            "MapDataFetchError": true,
+            "DatabaseExecuteOperationalError": true,
+            "DatabaseConnectError": true
         }
     }
 }
