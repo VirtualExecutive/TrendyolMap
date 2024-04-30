@@ -23,7 +23,7 @@ class Main():
         Database.host="193.203.168.7"
         Database.database="u902215931_trendyolMap"
         Database.user="u902215931_yusuf"
-        Database.password="yusufY.2002"
+        Database.password="yusufY155"
         self.Database = Database()
 
         

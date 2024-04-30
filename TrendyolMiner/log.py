@@ -11,6 +11,8 @@ class Log():
     settingsFile="settings.json"
     settings={}
 
+    errorCounting=0
+
 
     def __init__(self) -> None:
         self.filename =f"{self.GetCurrentDate('%Y%m%d%H%M%S')}.log"
@@ -21,11 +23,32 @@ class Log():
     def Write(self, *node):
         self.ReadSettingsFile()
         self.AddToSettings(*node[:3])
-        if self.GetPermitFromSettings(*node[:3]):
+        self.CheckFileSizeAndClear()
+        if self.GetPermitFromSettings(*node[:3]) and self.CheckErrorFlood(node[0]):
             with self.OpenFile("a") as f:
                 message=f'{self.GetCurrentDate("%Y.%m.%d %H:%M:%S.%f")} | {" | ".join(node)}\n'
                 f.write(message)
                 print(message,end="")
+
+    def CheckFileSizeAndClear(self):
+        try:
+            size = os.path.getsize(os.path.join(self.logsFolder,self.filename))/(1024)
+        except:
+            size=0
+        if size >= 128:
+            with self.OpenFile("w") as f:
+                f.write("")
+
+    def CheckErrorFlood(self,state):
+        if not state=="ERROR":
+            self.errorCounting=0
+            return True
+        
+        if self.errorCounting==10:
+            return False
+        
+        self.errorCounting+=1
+        return True
 
     def OpenFile(self, mode,encoding="utf-8"):
         return open(os.path.join(self.logsFolder,self.filename),mode,encoding=encoding)

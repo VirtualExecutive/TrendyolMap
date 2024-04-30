@@ -54,7 +54,9 @@
             "all": true,
             "DatabaseExecuteIntegrityError": false,
             "AddingSomeVisitedLink": false,
-            "DatabaseProductError": true
+            "DatabaseProductError": true,
+            "DatabaseConnectError": true,
+            "DatabaseExecuteError": true
         }
     }
 }
