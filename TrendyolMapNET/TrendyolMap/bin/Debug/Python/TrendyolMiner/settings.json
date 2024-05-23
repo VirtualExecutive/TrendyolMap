@@ -45,7 +45,8 @@
             "DatabaseExecuteUsed": true,
             "DatabaseExecuteResultCount": true,
             "DatabaseExecuteManyUsed": true,
-            "DatabaseExecuteManyResultCount": true
+            "DatabaseExecuteManyResultCount": true,
+            "DatabaseDisconnected": true
         }
     },
     "ERROR": {
@@ -56,11 +57,13 @@
             "AddingSomeVisitedLink": false,
             "DatabaseProductError": true,
             "DatabaseConnectError": true,
-            "DatabaseExecuteError": true
+            "DatabaseExecuteError": true,
+            "DatabaseExecuteOperationalError": true
         },
         "Browser": {
             "all": true,
-            "BrowserGetDataJsonError": true
+            "BrowserGetDataJsonError": true,
+            "BrowserRequestFailed": true
         }
     }
 }

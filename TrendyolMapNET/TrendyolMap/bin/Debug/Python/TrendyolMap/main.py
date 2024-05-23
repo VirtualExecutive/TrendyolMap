@@ -6,6 +6,8 @@ from log import Log
 import matplotlib.colors as mcolors
 import webbrowser
 
+import sys
+
 class TrendyolMap:
 
     TURKEY_COORDINATS_JSON_FILE ="turkey.json" 
@@ -16,6 +18,8 @@ class TrendyolMap:
     db = Database()
     log = Log()
     locationShops:dict
+
+    inputs:list
 
     @classmethod
     def CreateMap(cls) -> None:
@@ -326,21 +330,32 @@ class TrendyolMap:
         cls.PlaceLocationSomeProductSellerShop(f"ProductID:{productID} {methodColor}",methodColor=methodColor,isShowLine=isShowLine)
 
 if __name__ == "__main__":
+    inputs=sys.argv[1:]
+    TrendyolMap.inputs = inputs
     TrendyolMap.CreateMap()
-    # ProductID = input("Ürün ID'si girin: ")
-    # if not ProductID.isnumeric():
-    #     ProductID = ProductID[:ProductID.find("?")]
-    #     ProductID = ProductID[ProductID.find("-p-")+3:]
-    # ProductID = int(ProductID)
+    if(inputs):
+        ProductID = inputs[0]
+    else:
+        ProductID = input("Ürün ID'si girin: ")
+    if not ProductID.isnumeric():
+        index = ProductID.find("?")
+        if(index!=-1):
+            ProductID = ProductID[:ProductID.find("?")]
+        ProductID = ProductID[ProductID.find("-p-")+3:]
+    ProductID = int(ProductID)
 
-    # method = input("Fiyat hesaplama yöntemini seçiniz ( min | avg | max ):")
+    if(inputs):
+        method = inputs[1]
+    else:
+        method = input("Fiyat hesaplama yöntemini seçiniz ( min | avg | max ):")
+        
 
     # TrendyolMap.PlaceAllShops()   
     # TrendyolMap.PlaceSomeProductSellerShops(85074,methodColor="min",isShowLine=True)
     # TrendyolMap.PlaceSomeProductSellerShops(100398,methodColor="min")
     # TrendyolMap.PlaceSomeProductSellerShops(100398,methodColor="avg")
-    TrendyolMap.PlaceSomeProductSellerShops(100398,methodColor="max")
-    # TrendyolMap.PlaceSomeProductSellerShops(ProductID,methodColor="min") 
+    # TrendyolMap.PlaceSomeProductSellerShops(100398,methodColor="max")
+    TrendyolMap.PlaceSomeProductSellerShops(ProductID,methodColor=method) 
     # TrendyolMap.PlaceSomeProductSellerShops(820326336,methodColor="min")
     
     TrendyolMap.PlaceLayoutController()
