@@ -1,0 +1,10 @@
+{
+    "DEBUG": {
+        "all": true,
+        "Database": {
+            "all": true,
+            "DatabaseConnecting": true,
+            "DatabaseConnected": true
+        }
+    }
+}

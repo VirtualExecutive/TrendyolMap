@@ -1,0 +1,69 @@
+{
+    "INFO": {
+        "all": true,
+        "Main": {
+            "all": true,
+            "MainInit": true,
+            "MainStarted": true,
+            "SelectedMining": true
+        },
+        "Miner": {
+            "all": true,
+            "CreatedMiner": true,
+            "MinerDidSetID": true,
+            "MinerInitializing": true,
+            "MinerStarted": true,
+            "MinerCheckedTables": true,
+            "TrendyolScanningPage": false,
+            "GetRandomURL": false
+        },
+        "Browser": {
+            "all": true,
+            "BrowserOpen": true,
+            "BrowserRequest": false,
+            "BrowserRequestSuccesfully": false,
+            "BrowserGetContent": false
+        },
+        "Trendyol": {
+            "all": true,
+            "TrendyolGetAllUrl": false,
+            "TrendyolFoundHref": false
+        },
+        "Database": {
+            "all": true,
+            "AddedNotVisitedLinks": false,
+            "AddedVisitedLink": false,
+            "UrlCounted": true
+        }
+    },
+    "DEBUG": {
+        "all": false,
+        "Database": {
+            "all": true,
+            "DatabaseConnecting": true,
+            "DatabaseConnected": true,
+            "DatabaseExecuteUsed": true,
+            "DatabaseExecuteResultCount": true,
+            "DatabaseExecuteManyUsed": true,
+            "DatabaseExecuteManyResultCount": true,
+            "DatabaseDisconnected": true
+        }
+    },
+    "ERROR": {
+        "all": true,
+        "Database": {
+            "all": true,
+            "DatabaseExecuteIntegrityError": false,
+            "AddingSomeVisitedLink": false,
+            "DatabaseProductError": true,
+            "DatabaseConnectError": true,
+            "DatabaseExecuteError": true,
+            "DatabaseExecuteOperationalError": true
+        },
+        "Browser": {
+            "all": true,
+            "BrowserGetDataJsonError": true,
+            "BrowserRequestFailed": true
+        }
+    }
+}
